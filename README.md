@@ -47,19 +47,23 @@
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/deepanshu946/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 # Binary Tree
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/deepanshu946/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 # Depth-First Search
 |  |
 | ------- |
+| [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
