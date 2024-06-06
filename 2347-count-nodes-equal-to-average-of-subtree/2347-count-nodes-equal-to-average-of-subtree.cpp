@@ -11,27 +11,31 @@
  */
 class Solution {
 private:
-int sumofsubtree(TreeNode* root){
+pair<int,int> sumofsubtree(TreeNode* root){
     if(root==NULL){
-        return 0;
+        return {0,0};
     }
-    int left = sumofsubtree(root->left);
-    int right = sumofsubtree(root->right);
-    return left + right + root->val;
+    pair<int,int> left = sumofsubtree(root->left);
+    pair<int,int> right = sumofsubtree(root->right);
+    int sum = left.first+right.first+ root->val;
+    int nodes = left.second+right.second+1;
+    pair<int,int> p = make_pair(sum,nodes);
+    return p;
 }
-int countsubtreenodes(TreeNode* root){
-    if(root==NULL){
-        return 0;
-    }
-    int left = countsubtreenodes(root->left);
-    int right = countsubtreenodes(root->right);
-    return left + right + 1;
-}
+// int countsubtreenodes(TreeNode* root){
+//     if(root==NULL){
+//         return 0;
+//     }
+//     int left = countsubtreenodes(root->left);
+//     int right = countsubtreenodes(root->right);
+//     return left + right + 1;
+// }
 void solve(TreeNode* root , int &ans){
     if(root==NULL){
         return ;
     }
-    int val = sumofsubtree(root)/countsubtreenodes(root);
+    pair<int,int> p = sumofsubtree(root);
+    int val = p.first/p.second;
     if(val == root->val){
         ans++;
     }
