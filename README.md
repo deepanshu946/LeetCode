@@ -43,3 +43,11 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+# Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/deepanshu946/LeetCode/tree/master/2384-root-equals-sum-of-children) |
+# Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/deepanshu946/LeetCode/tree/master/2384-root-equals-sum-of-children) |
