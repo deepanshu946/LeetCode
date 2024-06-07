@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -72,6 +75,7 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
