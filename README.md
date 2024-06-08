@@ -9,6 +9,7 @@
 | [0164-maximum-gap](https://github.com/deepanshu946/LeetCode/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
+| [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -34,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
+| [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 # Greedy
@@ -132,3 +134,11 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
