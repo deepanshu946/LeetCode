@@ -59,6 +59,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [1765-merge-in-between-linked-lists](https://github.com/deepanshu946/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/deepanshu946/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 # Queue
 |  |
 | ------- |
@@ -159,3 +160,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+# Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/deepanshu946/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
