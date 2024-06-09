@@ -57,6 +57,7 @@
 # Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [1765-merge-in-between-linked-lists](https://github.com/deepanshu946/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 # Queue
 |  |
@@ -154,3 +155,7 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+# Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
