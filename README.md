@@ -25,6 +25,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/deepanshu946/LeetCode/tree/master/3396-valid-word) |
 # Backtracking
 |  |
 | ------- |
