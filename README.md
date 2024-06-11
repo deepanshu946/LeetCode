@@ -30,6 +30,7 @@
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
+| [2128-reverse-prefix-of-word](https://github.com/deepanshu946/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/deepanshu946/LeetCode/tree/master/3396-valid-word) |
 # Backtracking
@@ -175,6 +176,7 @@
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2128-reverse-prefix-of-word](https://github.com/deepanshu946/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 # Recursion
 |  |
 | ------- |
