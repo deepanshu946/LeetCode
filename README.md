@@ -16,6 +16,7 @@
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/deepanshu946/LeetCode/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/deepanshu946/LeetCode/tree/master/1137-height-checker) |
@@ -141,6 +142,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/deepanshu946/LeetCode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1646-kth-missing-positive-number](https://github.com/deepanshu946/LeetCode/tree/master/1646-kth-missing-positive-number) |
