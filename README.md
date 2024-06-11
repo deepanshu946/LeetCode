@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/deepanshu946/LeetCode/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/deepanshu946/LeetCode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -201,6 +202,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/deepanshu946/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
 # Memoization
