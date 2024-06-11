@@ -30,6 +30,7 @@
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
+| [1970-sorting-the-sentence](https://github.com/deepanshu946/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/deepanshu946/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/deepanshu946/LeetCode/tree/master/3396-valid-word) |
@@ -67,6 +68,7 @@
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1970-sorting-the-sentence](https://github.com/deepanshu946/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Linked List
 |  |
