@@ -3,7 +3,9 @@ public:
     int firstMissingPositive(vector<int>& nums) {
         unordered_map<int,bool> m;
         for(int i=0 ; i<nums.size() ; i++){
-            m[nums[i]]=1;
+            if(nums[i]>0){
+                m[nums[i]]=1;
+            }
         }
         int i=1;
         while(true){
