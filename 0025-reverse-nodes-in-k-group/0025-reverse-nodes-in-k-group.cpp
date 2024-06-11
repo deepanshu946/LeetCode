@@ -40,34 +40,61 @@ private:
 
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* newhead = NULL;
-        ListNode* temp = head;
-        ListNode* link = NULL;
-        while (temp != NULL) {
-            pair<ListNode*, ListNode*> p;
+        //approach 1 - my approach
+        // ListNode* newhead = NULL;
+        // ListNode* temp = head;
+        // ListNode* link = NULL;
+        // while (temp != NULL) {
+        //     pair<ListNode*, ListNode*> p;
 
-            if (check(temp, k)) {
-                p = reversek(temp, k);
-            } else {
-                break;
-            }
+        //     if (check(temp, k)) {
+        //         p = reversek(temp, k);
+        //     } else {
+        //         break;
+        //     }
 
-            if (link != NULL) {
-                link->next = p.first;
-            }
-            link = temp;
+        //     if (link != NULL) {
+        //         link->next = p.first;
+        //     }
+        //     link = temp;
 
-            if (newhead == NULL) {
-                newhead = p.first;
-            }
+        //     if (newhead == NULL) {
+        //         newhead = p.first;
+        //     }
 
-            temp = p.second;
+        //     temp = p.second;
+        // }
+
+        // if (link != NULL && temp != NULL) {
+        //     link->next = temp;
+        // }
+
+        // return newhead;
+        
+
+        //approach 2 - using recursion
+
+        if(head==NULL || k==1){
+            return  head;
         }
-
-        if (link != NULL && temp != NULL) {
-            link->next = temp;
+        if(!check(head,k)){
+            return head;
         }
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        ListNode* nex= curr;
+        int count =0;
+        while(curr!=NULL && count<k){
+            nex = curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nex;
+            count++;
+        }
+        if(nex!=NULL){
+            head->next = reverseKGroup(nex,k);
+        }
+        return prev;
 
-        return newhead;
     }
 };
