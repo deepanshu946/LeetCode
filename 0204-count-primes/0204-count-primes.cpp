@@ -15,10 +15,8 @@ public:
         for(int i=2 ; i<n ; i++){
             if(notprime[i]==0){
                 ans++;
-                int temp =1;
-                for(int j=i*temp ; j<n ; temp++){
-                    notprime[j]=1;
-                    j=i*temp;
+               for (int j = 2 * i; j < n; j += i) {
+                    notprime[j] = true;
                 }
             }
         }
