@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/deepanshu946/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
 # Bucket Sort
 |  |
@@ -205,6 +207,7 @@
 # Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/deepanshu946/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 # Counting Sort
 |  |
