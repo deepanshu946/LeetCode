@@ -28,6 +28,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/deepanshu946/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/deepanshu946/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
 # String
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/deepanshu946/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1970-sorting-the-sentence](https://github.com/deepanshu946/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/deepanshu946/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Linked List
 |  |
