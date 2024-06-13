@@ -61,6 +61,7 @@
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1010-powerful-integers](https://github.com/deepanshu946/LeetCode/tree/master/1010-powerful-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -191,6 +192,7 @@
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/deepanshu946/LeetCode/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1010-powerful-integers](https://github.com/deepanshu946/LeetCode/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
 # Prefix Sum
 |  |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
+| [1010-powerful-integers](https://github.com/deepanshu946/LeetCode/tree/master/1010-powerful-integers) |
 # Number Theory
 |  |
 | ------- |
