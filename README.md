@@ -125,6 +125,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -139,6 +140,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -175,6 +177,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/deepanshu946/LeetCode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/deepanshu946/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/deepanshu946/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -299,3 +303,11 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/deepanshu946/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+# Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+# Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
