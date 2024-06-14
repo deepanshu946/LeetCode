@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/deepanshu946/LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/deepanshu946/LeetCode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -52,6 +53,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/deepanshu946/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
