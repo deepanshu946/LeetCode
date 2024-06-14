@@ -29,6 +29,7 @@
 | [1137-height-checker](https://github.com/deepanshu946/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/deepanshu946/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -45,6 +46,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1970-sorting-the-sentence](https://github.com/deepanshu946/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/deepanshu946/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -93,6 +95,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/deepanshu946/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/deepanshu946/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
+| [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -171,12 +174,14 @@
 | ------- |
 | [0792-binary-search](https://github.com/deepanshu946/LeetCode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1646-kth-missing-positive-number](https://github.com/deepanshu946/LeetCode/tree/master/1646-kth-missing-positive-number) |
 # Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
+| [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 # Matrix
 |  |
 | ------- |
@@ -273,4 +278,5 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/deepanshu946/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
