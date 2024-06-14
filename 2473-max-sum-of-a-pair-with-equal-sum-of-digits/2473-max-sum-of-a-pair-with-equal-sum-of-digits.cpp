@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumSum(vector<int>& nums) {
-        map<int,vector<int>> m;
+        map<int,priority_queue<int>> m;
         for(int i=0 ; i<nums.size() ; i++){
             int num = nums[i];
             int sum=0;
@@ -10,15 +10,15 @@ public:
                 num=num/10;
                 sum = sum+digit;
             }
-            m[sum].push_back(nums[i]);
+            m[sum].push(nums[i]);
         }
         int ans = -1;
-        for(pair<int,vector<int>> i:m){
+        for(pair<int,priority_queue<int>> i:m){
             if(i.second.size() > 1){
-                vector<int> temp = i.second;
-                sort(temp.begin() , temp.end());
-                int n = temp.size();
-                ans = max(ans,temp[n-1]+temp[n-2]);
+                int a = i.second.top();
+                i.second.pop();
+                int b = i.second.top();
+                ans = max(ans,a+b);
             }
         }
         return ans;
