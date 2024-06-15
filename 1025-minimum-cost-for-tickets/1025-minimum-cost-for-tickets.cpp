@@ -1,6 +1,7 @@
 class Solution {
 private:
 int solve(vector<int>& days, vector<int>& costs,int index , int n,vector<int> &dp){
+    //tc of emmoization is O(1) because we can store a max of 365+1 element in a dp array 
     if(index>=n){
         return 0;
     }
@@ -21,7 +22,7 @@ int solve(vector<int>& days, vector<int>& costs,int index , int n,vector<int> &d
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
         int n = days.size();
-        vector<int> dp(n,-1);
+        vector<int> dp(366,-1);
         return solve(days,costs,0,n,dp);
     }
 };
