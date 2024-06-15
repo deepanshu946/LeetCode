@@ -3,8 +3,8 @@ private:
 struct compare{
         bool operator()(pair<int,string>& a,pair<int,string>& b){
             if(a.first==b.first)
-                return a.second < b.second; //sort assending 
-            return a.first>b.first; //sorts descending 
+                return a.second > b.second; //sort assending 
+            return a.first < b.first; //sorts descending 
         }
     };
 public:
@@ -17,9 +17,9 @@ public:
         priority_queue<pair<int,string> , vector<pair<int,string>> , compare> pq;
         for(auto i:m){
             pq.push({i.second,i.first});
-            if(pq.size()>k){
-                pq.pop();
-            }
+            // if(pq.size()>k){
+            //     pq.pop();
+            // }
         }
         vector<string> ans;
         while(k--){
@@ -27,7 +27,7 @@ public:
             pq.pop();
             ans.push_back(p.second);
         }
-        reverse(ans.begin() , ans.end());
+        // reverse(ans.begin() , ans.end());
         return ans;
     }
 };
