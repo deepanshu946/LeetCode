@@ -18,6 +18,7 @@
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
+| [0330-patching-array](https://github.com/deepanshu946/LeetCode/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
@@ -91,6 +92,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/deepanshu946/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/deepanshu946/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/deepanshu946/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
