@@ -16,6 +16,7 @@
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/deepanshu946/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -209,6 +210,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/deepanshu946/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
 # Bucket Sort
@@ -282,6 +284,7 @@
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/deepanshu946/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepanshu946/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/deepanshu946/LeetCode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0747-min-cost-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
