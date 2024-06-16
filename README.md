@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/deepanshu946/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/deepanshu946/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/deepanshu946/LeetCode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deepanshu946/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepanshu946/LeetCode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/deepanshu946/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepanshu946/LeetCode/tree/master/0213-house-robber-ii) |
