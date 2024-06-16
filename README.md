@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deepanshu946/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/deepanshu946/LeetCode/tree/master/0279-perfect-squares) |
@@ -281,6 +282,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/deepanshu946/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepanshu946/LeetCode/tree/master/0213-house-robber-ii) |
@@ -346,3 +348,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
