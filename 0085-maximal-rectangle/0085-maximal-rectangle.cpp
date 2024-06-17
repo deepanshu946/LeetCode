@@ -58,7 +58,7 @@ public:
                     temp[j]=0;
                 }
                 else{
-                    temp[j]=temp[j]+matrix[i][j]-48;
+                    temp[j]++;
                 }
             }
             ans = max(ans , largestRectangleArea(temp));
