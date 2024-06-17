@@ -199,6 +199,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/deepanshu946/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/deepanshu946/LeetCode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -249,6 +250,7 @@
 | [0279-perfect-squares](https://github.com/deepanshu946/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/deepanshu946/LeetCode/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/deepanshu946/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1010-powerful-integers](https://github.com/deepanshu946/LeetCode/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/deepanshu946/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -264,6 +266,7 @@
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/deepanshu946/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2128-reverse-prefix-of-word](https://github.com/deepanshu946/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 # Recursion
 |  |
