@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/deepanshu946/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/deepanshu946/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
@@ -228,6 +229,7 @@
 | [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/deepanshu946/LeetCode/tree/master/0498-diagonal-traverse) |
 # Bucket Sort
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/deepanshu946/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/deepanshu946/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 # Counting Sort
 |  |
