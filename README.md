@@ -19,6 +19,7 @@
 | [0213-house-robber-ii](https://github.com/deepanshu946/LeetCode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
+| [0274-h-index](https://github.com/deepanshu946/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/deepanshu946/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/deepanshu946/LeetCode/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/deepanshu946/LeetCode/tree/master/0330-patching-array) |
@@ -113,6 +114,7 @@
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/deepanshu946/LeetCode/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/deepanshu946/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/deepanshu946/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -293,6 +295,7 @@
 # Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/deepanshu946/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/deepanshu946/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/deepanshu946/LeetCode/tree/master/0692-top-k-frequent-words) |
