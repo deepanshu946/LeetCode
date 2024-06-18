@@ -1,8 +1,9 @@
 class Solution {
 private:
 int solve(vector<int> &nums , int n){
-    vector<vector<int>> dp(n+1 , vector<int>(n+1,0));
-
+    // vector<vector<int>> dp(n+1 , vector<int>(n+1,0));
+    vector<int> nextrow(n+1 , 0);
+    vector<int> currrow(n+1,0);
     // if(curr==n){
     //     return 0;
     // }
@@ -14,14 +15,15 @@ int solve(vector<int> &nums , int n){
             int inc =0;
             int exc=0;
             if(prev == -1 || nums[curr]>nums[prev]){
-                inc = 1+dp[curr+1][curr+1];
+                inc = 1+nextrow[curr+1];
             }
-            exc = dp[curr+1][prev+1];
-            dp[curr][prev+1]=max(inc,exc);
+            exc = nextrow[prev+1];
+            currrow[prev+1]=max(inc,exc);
             // return dp[curr][prev];
         }
+        nextrow = currrow;
     }
-    return dp[0][0];
+    return nextrow[0];
 }
 public:
     int lengthOfLIS(vector<int>& nums) {
