@@ -10,7 +10,7 @@ int solve(vector<vector<int>> &nums, int n){
     vector<int> nextrow(n+1 , 0);
     vector<int> currrow(n+1,0);
     for(int curr = n-1 ; curr>=0 ; curr--){
-        for(int prev = n-1 ; prev>=-1 ; prev--){
+        for(int prev = curr-1 ; prev>=-1 ; prev--){
             int inc =0;
             int exc=0;
             if(prev == -1 || check(nums[curr],nums[prev])){
