@@ -4,15 +4,17 @@ private:
 public:
     int longestConsecutive(vector<int>& nums) {
 
-        map<int,bool> m;
+        // map<int,bool> m;
+        set<int> s;
         for(int i=0 ; i<nums.size() ; i++){
-            m[nums[i]]=1;
+            // m[nums[i]]=1;
+            s.insert(nums[i]);
         }
         unordered_map<int,int> m2;
         int ans = 0;
-        for(auto i:m){
-            int val = i.first;
-            if(m.find(val-1) == m.end()){
+        for(auto i:s){
+            int val = i;
+            if(!s.contains(val-1)){
                 m2[val]=1;
             }
             else{
