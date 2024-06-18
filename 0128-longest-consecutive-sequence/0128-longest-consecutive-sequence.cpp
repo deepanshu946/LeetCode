@@ -8,7 +8,7 @@ public:
         for(int i=0 ; i<nums.size() ; i++){
             m[nums[i]]=1;
         }
-        map<int,int> m2;
+        unordered_map<int,int> m2;
         int ans = 0;
         for(auto i:m){
             int val = i.first;
