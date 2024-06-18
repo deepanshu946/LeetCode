@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/deepanshu946/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/deepanshu946/LeetCode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/deepanshu946/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
@@ -85,6 +86,7 @@
 | [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/deepanshu946/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -404,3 +406,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0128-longest-consecutive-sequence) |
