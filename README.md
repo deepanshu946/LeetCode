@@ -58,6 +58,7 @@
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/deepanshu946/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
@@ -288,6 +289,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepanshu946/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/deepanshu946/LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
 # Simulation
 |  |
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/deepanshu946/LeetCode/tree/master/0739-daily-temperatures) |
 # Monotonic Stack
 |  |
