@@ -10,16 +10,13 @@ public:
             pq.pop();
             int y = pq.top();
             pq.pop();
-            int val = abs(x-y);
-            if(val != 0){
-                pq.push(val);
-            }
+            if(x != y)
+                pq.push(abs(x-y));
+            
         }
         if(pq.size()==1){
             return pq.top();
         }
-        else{
-            return 0;
-        }
+        return 0;
     }
 };
