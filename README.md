@@ -53,6 +53,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/deepanshu946/LeetCode/tree/master/1503-reducing-dishes) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepanshu946/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/deepanshu946/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/deepanshu946/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -241,6 +242,7 @@
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepanshu946/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/deepanshu946/LeetCode/tree/master/1646-kth-missing-positive-number) |
 # Trie
 |  |
