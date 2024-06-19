@@ -61,6 +61,7 @@
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -80,6 +81,7 @@
 # Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/deepanshu946/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/deepanshu946/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/deepanshu946/LeetCode/tree/master/0052-n-queens-ii) |
@@ -333,6 +335,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
