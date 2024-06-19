@@ -168,6 +168,7 @@
 # Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -183,6 +184,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -226,6 +229,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/deepanshu946/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/deepanshu946/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/deepanshu946/LeetCode/tree/master/0792-binary-search) |
