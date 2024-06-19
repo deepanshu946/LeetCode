@@ -45,6 +45,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1036-rotting-oranges) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/deepanshu946/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1127-last-stone-weight](https://github.com/deepanshu946/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/deepanshu946/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -394,6 +395,7 @@
 | [0692-top-k-frequent-words](https://github.com/deepanshu946/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/deepanshu946/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/deepanshu946/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/deepanshu946/LeetCode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
