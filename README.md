@@ -38,6 +38,7 @@
 | [0739-daily-temperatures](https://github.com/deepanshu946/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/deepanshu946/LeetCode/tree/master/0792-binary-search) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/deepanshu946/LeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [0967-minimum-falling-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -359,6 +360,7 @@
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshu946/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/deepanshu946/LeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
