@@ -2,9 +2,11 @@ class Solution {
 private:
 int solve(vector<int> nums1 , vector<int> nums2){
     int n = nums1.size();
-    vector<vector<int>> dp(n+1 , vector<int>(2,INT_MAX));
-    dp[n][0]=0;
-    dp[n][1]=0;
+    // vector<vector<int>> dp(n+1 , vector<int>(2,INT_MAX));
+    vector<int> curr(2,0);
+    vector<int> prev(2,0);
+    // dp[n][0]=0;
+    // dp[n][1]=0;
     for(int i=n-1 ; i>=1 ; i--){
         for(int swapped=0 ; swapped<=1 ; swapped++){
             int ans = INT_MAX;
@@ -15,16 +17,17 @@ int solve(vector<int> nums1 , vector<int> nums2){
             }
             //no swap
             if(nums1[i]>prev1 && nums2[i]>prev2){
-                ans = dp[i+1][0];
+                ans = prev[0];
             }
             //swap
             if(nums1[i]>prev2 && nums2[i]>prev1){
-                ans = min(ans,1+dp[i+1][1]);
+                ans = min(ans,1+prev[1]);
             }
-            dp[i][swapped]=ans;
+            curr[swapped]=ans;
         }
+        prev = curr;
     }
-    return dp[1][0];
+    return prev[0];
         
     
 }
