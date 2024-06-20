@@ -1,21 +1,25 @@
 class Solution {
 private:
 bool solve(vector<int> &nums , int target,int n){
-    vector<vector<int>> dp(n+1,vector<int>(target+1 , 0));
-    for(int i=0 ; i<n ; i++){
-        dp[i][0]=1;
-    }
+    // vector<vector<int>> dp(n+1,vector<int>(target+1 , 0));
+    vector<int> curr(target+1 , 0);
+    vector<int> prev(target+1 , 0);
+    curr[0]=1;
+    // for(int i=0 ; i<n ; i++){
+    //     dp[i][0]=1;
+    // }
     for(int index = n-1 ; index>=0 ;index--){
         for(int temp=1;temp<=target ; temp++){
             bool inc = 0;
             if(temp-nums[index]>=0){
-                inc = dp[index+1][temp-nums[index]];
+                inc = prev[temp-nums[index]];
             }
-            bool exc = dp[index+1][temp];
-            dp[index][temp]=inc||exc;
+            bool exc = prev[temp];
+            curr[temp]=inc||exc;
         }
+        prev = curr;
     }
-    return dp[0][target];
+    return prev[target];
 
 }
 public:
