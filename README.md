@@ -358,6 +358,7 @@
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/deepanshu946/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/deepanshu946/LeetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/deepanshu946/LeetCode/tree/master/1503-reducing-dishes) |
