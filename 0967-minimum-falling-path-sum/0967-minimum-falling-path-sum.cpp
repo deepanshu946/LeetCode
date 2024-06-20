@@ -33,25 +33,51 @@ public:
         // return ans;
 
         //*tabulation*
-        vector<vector<int>> dp(n+1,vector<int>(m+1,INT_MAX));
+    //     vector<vector<int>> dp(n+1,vector<int>(m+1,INT_MAX));
+    //     for(int i=n-1 ; i>=0 ; i--){
+    //     for(int j=m-1 ; j>=0 ; j--){
+    //         int left = INT_MAX;
+    //         if(j-1 >=0 )
+    //             left = dp[i+1][j-1];
+    //         int down = dp[i+1][j];
+    //         int right = dp[i+1][j+1];
+
+    //         if(left==INT_MAX && down==INT_MAX && right==INT_MAX){
+    //             dp[i][j]=matrix[i][j];
+    //         }
+    //         else{
+    //             dp[i][j]=matrix[i][j]+min(left,min(down,right));
+    //         }
+    //     }
+    // }
+    // for(int col=0 ; col<n ; col++){
+    //         ans = min(ans,dp[0][col]);
+    //     }
+    //     return ans;
+
+    //tabulation with space optimization
+        // vector<vector<int>> dp(n+1,vector<int>(m+1,INT_MAX));
+        vector<int> curr(m+1,INT_MAX);
+        vector<int> prev(m+1,INT_MAX);
         for(int i=n-1 ; i>=0 ; i--){
         for(int j=m-1 ; j>=0 ; j--){
             int left = INT_MAX;
             if(j-1 >=0 )
-                left = dp[i+1][j-1];
-            int down = dp[i+1][j];
-            int right = dp[i+1][j+1];
+                left = prev[j-1];
+            int down = prev[j];
+            int right = prev[j+1];
 
             if(left==INT_MAX && down==INT_MAX && right==INT_MAX){
-                dp[i][j]=matrix[i][j];
+                curr[j]=matrix[i][j];
             }
             else{
-                dp[i][j]=matrix[i][j]+min(left,min(down,right));
+                curr[j]=matrix[i][j]+min(left,min(down,right));
             }
         }
+        prev = curr;
     }
         for(int col=0 ; col<n ; col++){
-            ans = min(ans,dp[0][col]);
+            ans = min(ans,prev[col]);
         }
         return ans;
     }
