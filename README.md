@@ -32,6 +32,7 @@
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshu946/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/deepanshu946/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/deepanshu946/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -94,6 +95,7 @@
 | [0039-combination-sum](https://github.com/deepanshu946/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/deepanshu946/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/deepanshu946/LeetCode/tree/master/0052-n-queens-ii) |
+| [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
 # Hash Table
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [0354-russian-doll-envelopes](https://github.com/deepanshu946/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshu946/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/deepanshu946/LeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0967-minimum-falling-path-sum) |
