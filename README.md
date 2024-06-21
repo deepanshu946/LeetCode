@@ -188,6 +188,7 @@
 # Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -204,6 +205,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -248,6 +250,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/deepanshu946/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -306,6 +309,7 @@
 | [0048-rotate-image](https://github.com/deepanshu946/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/deepanshu946/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/deepanshu946/LeetCode/tree/master/0326-power-of-three) |
@@ -363,6 +367,7 @@
 | [0064-minimum-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/deepanshu946/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/deepanshu946/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/deepanshu946/LeetCode/tree/master/0221-maximal-square) |
