@@ -56,6 +56,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/deepanshu946/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/deepanshu946/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/deepanshu946/LeetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -119,6 +120,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/deepanshu946/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](https://github.com/deepanshu946/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -378,6 +380,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/deepanshu946/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/deepanshu946/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/deepanshu946/LeetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/deepanshu946/LeetCode/tree/master/1503-reducing-dishes) |
