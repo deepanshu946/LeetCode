@@ -20,7 +20,7 @@ int solve(vector<int> &nums , int target , int index , int n,unordered_map<int,i
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
-        unordered_map<int,int> dp[n+1];
+        unordered_map<int,int> dp[22];
         return solve(nums,target,0,n,dp);
     }
 };
