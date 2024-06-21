@@ -313,6 +313,7 @@
 | [0204-count-primes](https://github.com/deepanshu946/LeetCode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/deepanshu946/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/deepanshu946/LeetCode/tree/master/0326-power-of-three) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/deepanshu946/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/deepanshu946/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1010-powerful-integers](https://github.com/deepanshu946/LeetCode/tree/master/1010-powerful-integers) |
@@ -375,6 +376,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepanshu946/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/deepanshu946/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/deepanshu946/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshu946/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
@@ -458,3 +460,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+# Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/deepanshu946/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
