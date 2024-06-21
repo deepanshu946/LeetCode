@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/deepanshu946/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/deepanshu946/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/deepanshu946/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/deepanshu946/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/deepanshu946/LeetCode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/deepanshu946/LeetCode/tree/master/0057-insert-interval) |
@@ -125,6 +126,7 @@
 # Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/deepanshu946/LeetCode/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/deepanshu946/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/deepanshu946/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -354,6 +356,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/deepanshu946/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/deepanshu946/LeetCode/tree/master/0070-climbing-stairs) |
