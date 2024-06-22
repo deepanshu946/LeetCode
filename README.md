@@ -49,6 +49,7 @@
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/deepanshu946/LeetCode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
+| [0966-binary-subarrays-with-sum](https://github.com/deepanshu946/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/deepanshu946/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/deepanshu946/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -123,6 +124,7 @@
 | [0692-top-k-frequent-words](https://github.com/deepanshu946/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0966-binary-subarrays-with-sum](https://github.com/deepanshu946/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1010-powerful-integers](https://github.com/deepanshu946/LeetCode/tree/master/1010-powerful-integers) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
@@ -313,6 +315,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/deepanshu946/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepanshu946/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
@@ -336,6 +339,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/deepanshu946/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Two Pointers
 |  |
