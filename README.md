@@ -55,6 +55,7 @@
 | [1137-height-checker](https://github.com/deepanshu946/LeetCode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepanshu946/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/deepanshu946/LeetCode/tree/master/1217-relative-sort-array) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/deepanshu946/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1319-unique-number-of-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/deepanshu946/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/deepanshu946/LeetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -134,6 +135,7 @@
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/deepanshu946/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/deepanshu946/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/deepanshu946/LeetCode/tree/master/1503-reducing-dishes) |
@@ -386,6 +388,7 @@
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/deepanshu946/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/deepanshu946/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/deepanshu946/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/deepanshu946/LeetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -411,11 +414,13 @@
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/deepanshu946/LeetCode/tree/master/0739-daily-temperatures) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/deepanshu946/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/deepanshu946/LeetCode/tree/master/0739-daily-temperatures) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/deepanshu946/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 # Heap (Priority Queue)
 |  |
 | ------- |
