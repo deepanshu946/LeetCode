@@ -1,21 +1,27 @@
 class Solution {
 private:
 int solve( int k , vector<int> &prices , int n){
-    vector<vector<int>> dp(n+1,vector<int>((2*k)+1,0));
+    // vector<vector<int>> dp(n+1,vector<int>((2*k)+1,0));
+    vector<int> curr((2*k)+1 , 0);
+    vector<int> prev((2*k)+1 , 0);
+
+
+
     for(int i=n-1 ; i>=0 ; i--){
         for(int op=(2*k)-1 ; op>=0 ; op--){
             int profit = 0;
             if(op%2==0){
                 //buy
-                profit = max(-prices[i]+dp[i+1][op+1],dp[i+1][op]);
+                profit = max(-prices[i]+prev[op+1],prev[op]);
             }
             else{
-                profit = max(prices[i]+dp[i+1][op+1] , dp[i+1][op]);
+                profit = max(prices[i]+prev[op+1] , prev[op]);
             }
-            dp[i][op]=profit;
+            curr[op]=profit;
         }
+        prev = curr;
     }
-    return dp[0][0];
+    return prev[0];
 }
 
 public:
