@@ -1,6 +1,33 @@
 class Solution {
 private:
-int solve(vector<int> prices , int n , int k){
+int solve( int k , vector<int> &prices , int n){
+    vector<vector<int>> dp(n+1,vector<int>((2*k)+1,0));
+    for(int i=n-1 ; i>=0 ; i--){
+        for(int op=(2*k)-1 ; op>=0 ; op--){
+            int profit = 0;
+            if(op%2==0){
+                //buy
+                profit = max(-prices[i]+dp[i+1][op+1],dp[i+1][op]);
+            }
+            else{
+                profit = max(prices[i]+dp[i+1][op+1] , dp[i+1][op]);
+            }
+            dp[i][op]=profit;
+        }
+    }
+    return dp[0][0];
+}
+
+public:
+    int maxProfit(int k, vector<int>& prices) {
+        return solve(k,prices,prices.size());
+    }
+};
+
+
+
+//same spproach as 3 part
+int solvetab(vector<int> prices , int n , int k){
     vector<vector<int>> curr(2,vector<int>(k+1,0));
     vector<vector<int>> prev(2,vector<int>(k+1,0));
 
@@ -22,9 +49,3 @@ int solve(vector<int> prices , int n , int k){
     return prev[1][k];
     
 }
-
-public:
-    int maxProfit(int k, vector<int>& prices) {
-        return solve(prices,prices.size() , k);
-    }
-};
