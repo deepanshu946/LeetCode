@@ -93,6 +93,7 @@
 | [0648-replace-words](https://github.com/deepanshu946/LeetCode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/deepanshu946/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1250-longest-common-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/deepanshu946/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/deepanshu946/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -412,6 +413,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/deepanshu946/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/deepanshu946/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1250-longest-common-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/deepanshu946/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/deepanshu946/LeetCode/tree/master/1367-maximum-height-by-stacking-cuboids) |
