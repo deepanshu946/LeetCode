@@ -73,6 +73,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/deepanshu946/LeetCode/tree/master/1503-reducing-dishes) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepanshu946/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/deepanshu946/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/deepanshu946/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Counting
 |  |
 | ------- |
@@ -327,6 +329,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/deepanshu946/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepanshu946/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Math
 |  |
 | ------- |
@@ -468,6 +471,7 @@
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 # Divide and Conquer
 |  |
@@ -503,3 +507,11 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/deepanshu946/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
