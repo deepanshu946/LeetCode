@@ -48,11 +48,9 @@ int largestRectangleArea(vector<int>& heights) {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
         vector<int> temp(matrix[0].size());
-        for(int i=0 ; i<matrix[0].size() ; i++){
-            temp[i]=matrix[0][i]-48;
-        }
-        int ans = largestRectangleArea(temp);
-        for(int i=1 ; i<matrix.size() ; i++){
+        
+        int ans = INT_MIN;
+        for(int i=0 ; i<matrix.size() ; i++){
             for(int j=0 ; j<matrix[0].size() ; j++){
                 if(matrix[i][j]=='0'){
                     temp[j]=0;
