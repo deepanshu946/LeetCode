@@ -71,6 +71,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1428-jump-game-iii](https://github.com/deepanshu946/LeetCode/tree/master/1428-jump-game-iii) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/deepanshu946/LeetCode/tree/master/1503-reducing-dishes) |
@@ -260,6 +261,7 @@
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1428-jump-game-iii](https://github.com/deepanshu946/LeetCode/tree/master/1428-jump-game-iii) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 # Breadth-First Search
 |  |
@@ -275,6 +277,7 @@
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1428-jump-game-iii](https://github.com/deepanshu946/LeetCode/tree/master/1428-jump-game-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 # Binary Search Tree
 |  |
