@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/deepanshu946/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/deepanshu946/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
@@ -147,6 +148,7 @@
 # Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/deepanshu946/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/deepanshu946/LeetCode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshu946/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/deepanshu946/LeetCode/tree/master/0330-patching-array) |
@@ -369,6 +371,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepanshu946/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/deepanshu946/LeetCode/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/deepanshu946/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1013-fibonacci-number) |
@@ -393,6 +396,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/deepanshu946/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/deepanshu946/LeetCode/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/deepanshu946/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0064-minimum-path-sum) |
