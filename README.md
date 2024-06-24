@@ -59,6 +59,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1036-rotting-oranges) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/deepanshu946/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/deepanshu946/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/deepanshu946/LeetCode/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/deepanshu946/LeetCode/tree/master/1137-height-checker) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/deepanshu946/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Counting
 |  |
@@ -331,11 +333,13 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/deepanshu946/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/deepanshu946/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/deepanshu946/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/deepanshu946/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/deepanshu946/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -363,6 +367,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/deepanshu946/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/deepanshu946/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/deepanshu946/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Two Pointers
 |  |
 | ------- |
