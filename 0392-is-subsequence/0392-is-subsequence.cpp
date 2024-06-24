@@ -1,18 +1,21 @@
 class Solution {
 private:
 bool solve(string s , string t , int i , int j){
-    if(i==s.length()){
-        return true;
+    vector<vector<bool>> dp(s.length()+1 , vector<bool>(t.length()+1,0));
+    for(int i=0 ; i<=t.length() ; i++){
+        dp[s.length()][i]=1;
     }
-    if(j==t.length()){
-        return false;
+    for(int i=s.length()-1 ; i>=0 ; i--){
+        for(int j=t.length()-1 ; j>=0 ; j--){
+            if(s[i]==t[j]){
+                dp[i][j]= dp[i+1][j+1];
+            }
+            else{
+                dp[i][j] = dp[i][j+1];
+            }
+        }
     }
-    if(s[i]==t[j]){
-        return solve(s,t,i+1,j+1);
-    }
-    else{
-        return solve(s,t,i,j+1);
-    }
+    return dp[0][0];
 }
 public:
     bool isSubsequence(string s, string t) {
