@@ -93,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/deepanshu946/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/deepanshu946/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -368,6 +369,7 @@
 | [0075-sort-colors](https://github.com/deepanshu946/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deepanshu946/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/deepanshu946/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -423,6 +425,7 @@
 | [0354-russian-doll-envelopes](https://github.com/deepanshu946/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/deepanshu946/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0377-combination-sum-iv](https://github.com/deepanshu946/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/deepanshu946/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshu946/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
