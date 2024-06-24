@@ -1,8 +1,10 @@
 class Solution {
 private:
 bool solve(string &s , string &p){
-    vector<vector<bool>> dp(s.length()+1 , vector<bool>(p.length()+1,0));
-    dp[0][0]=1;
+    // vector<vector<bool>> dp(s.length()+1 , vector<bool>(p.length()+1,0));
+    vector<bool> prev(p.length()+1,0);
+    vector<bool> curr(p.length()+1 , 0);
+    prev[0]=1;
         for(int j=1 ; j<=p.length() ;j++){
             bool check =1;
             for(int k=1 ; k<=j ; k++){
@@ -11,25 +13,26 @@ bool solve(string &s , string &p){
                 break;
             }
         }
-        dp[0][j] = check;
+        prev[j] = check;
     }
     for(int i=1 ; i<=s.length() ; i++){
         for(int j=1 ; j<=p.length() ; j++){
             //match
             if(s[i-1]==p[j-1] || p[j-1]=='?'){
-                dp[i][j]= dp[i-1][j-1];
+                curr[j]= prev[j-1];
             }
             else if(p[j-1]=='*'){
-                bool empty=dp[i][j-1];
-                bool replace=dp[i-1][j];
-                dp[i][j]= empty||replace;
+                bool empty=curr[j-1];
+                bool replace=prev[j];
+                curr[j]= empty||replace;
             }
             else{
-                dp[i][j] =false;
+                curr[j] =false;
             }
         }
+        prev = curr;
     }
-    return dp[s.length()][p.length()];
+    return prev[p.length()];
 }
 public:
     bool isMatch(string s, string p) {
