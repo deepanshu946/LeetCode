@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/deepanshu946/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/deepanshu946/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshu946/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshu946/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deepanshu946/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -427,6 +428,7 @@
 | [0072-edit-distance](https://github.com/deepanshu946/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/deepanshu946/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshu946/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshu946/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deepanshu946/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
