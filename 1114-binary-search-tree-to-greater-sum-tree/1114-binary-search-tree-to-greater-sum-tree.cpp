@@ -33,13 +33,11 @@ public:
         vector<int> inorder;
         getinorder(root,inorder);
         int n = inorder.size();
-        vector<int> greater(n);
-        greater[n-1]=inorder[n-1];
         for(int i=n-2 ; i>=0 ; i-- ){
-            greater[i]=inorder[i]+greater[i+1];
+            inorder[i]=inorder[i]+inorder[i+1];
         }
-        reverse(greater.begin(),greater.end());
-        buildtree(root,greater);
+        reverse(inorder.begin(),inorder.end());
+        buildtree(root,inorder);
         return root;
     }
 };
