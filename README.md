@@ -91,6 +91,7 @@
 | [0044-wildcard-matching](https://github.com/deepanshu946/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/deepanshu946/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/deepanshu946/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/deepanshu946/LeetCode/tree/master/0389-find-the-difference) |
@@ -125,6 +126,7 @@
 | [0041-first-missing-positive](https://github.com/deepanshu946/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/deepanshu946/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/deepanshu946/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
