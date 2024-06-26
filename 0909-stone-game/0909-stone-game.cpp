@@ -25,6 +25,7 @@ class Solution {
 
 public:
     bool stoneGame(vector<int>& piles) {
+        return true;
         int n = piles.size();
 
         int sum = 0;
