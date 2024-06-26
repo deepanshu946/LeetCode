@@ -167,6 +167,7 @@
 | [0876-hand-of-straights](https://github.com/deepanshu946/LeetCode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/deepanshu946/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/deepanshu946/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1285-balance-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/deepanshu946/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1489-pizza-with-3n-slices](https://github.com/deepanshu946/LeetCode/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/deepanshu946/LeetCode/tree/master/1503-reducing-dishes) |
@@ -236,6 +237,7 @@
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepanshu946/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/deepanshu946/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -255,6 +257,7 @@
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepanshu946/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2384-root-equals-sum-of-children](https://github.com/deepanshu946/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -272,6 +275,7 @@
 | [1005-univalued-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepanshu946/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/deepanshu946/LeetCode/tree/master/1428-jump-game-iii) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/deepanshu946/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -305,6 +309,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/deepanshu946/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1397-search-suggestions-system](https://github.com/deepanshu946/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepanshu946/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -509,6 +514,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/deepanshu946/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/deepanshu946/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1285-balance-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Geometry
 |  |
 | ------- |
