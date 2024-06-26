@@ -1,6 +1,6 @@
 class Solution {
     int solve(vector<int>& piles, int start, int end, bool alice,vector<vector<vector<int>>> &dp) {
-        if (start > end) {
+        if (start >= end) {
             return 0;
         }
         if(dp[start][end][alice] != -1){
