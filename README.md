@@ -95,6 +95,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/deepanshu946/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/deepanshu946/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/deepanshu946/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deepanshu946/LeetCode/tree/master/0242-valid-anagram) |
@@ -440,6 +441,7 @@
 | [0072-edit-distance](https://github.com/deepanshu946/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/deepanshu946/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/deepanshu946/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepanshu946/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deepanshu946/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
