@@ -2,14 +2,13 @@ class Solution {
 private:
 int solve(vector<vector<int>> &grid , int row , int col , int m , int n){
     vector<vector<int>> dp(m+1 , vector<int> ( n+1 , INT_MAX));
-    // if(row>=m || col>=n){
-    //     return INT_MAX;
-    // }
+    vector<int> curr(n+1 , INT_MAX);
+    vector<int> prev(n+1 , INT_MAX);
     if(grid[m-1][n-1]<0){
-            dp[m-1][n-1] = -(grid[m-1][n-1]-1);
+            curr[n-1] = -(grid[m-1][n-1]-1);
         }
         else{
-            dp[m-1][n-1]= 1;
+            curr[n-1]= 1;
         }
 
     for(int row=m-1 ; row>=0 ; row--){
@@ -17,18 +16,19 @@ int solve(vector<vector<int>> &grid , int row , int col , int m , int n){
             if(row==m-1 && col==n-1){
                 continue;
             }
-            int right = dp[row][col+1];
-            int down = dp[row+1][col];
+            int right = curr[col+1];
+            int down = prev[col];
             int val =min(right,down)-grid[row][col];
             if(val<=0){
-                dp[row][col]= 1;
+                curr[col]= 1;
             }
             else{
-                dp[row][col]= val;
+                curr[col]= val;
             }
         }
+        prev = curr;
     }
-    return dp[0][0];
+    return prev[0];
     
 }
 
