@@ -233,6 +233,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepanshu946/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepanshu946/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -272,6 +274,7 @@
 # Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -289,6 +292,7 @@
 # Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/deepanshu946/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepanshu946/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
