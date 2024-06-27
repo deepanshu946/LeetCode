@@ -233,6 +233,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -254,6 +255,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/deepanshu946/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -274,6 +276,7 @@
 # Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/deepanshu946/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -292,6 +295,7 @@
 # Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deepanshu946/LeetCode/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/deepanshu946/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/deepanshu946/LeetCode/tree/master/0322-coin-change) |
