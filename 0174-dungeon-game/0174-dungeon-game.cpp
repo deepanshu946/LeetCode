@@ -1,7 +1,6 @@
 class Solution {
 private:
 int solve(vector<vector<int>> &grid , int row , int col , int m , int n){
-    vector<vector<int>> dp(m+1 , vector<int> ( n+1 , INT_MAX));
     vector<int> curr(n+1 , INT_MAX);
     vector<int> prev(n+1 , INT_MAX);
     if(grid[m-1][n-1]<0){
