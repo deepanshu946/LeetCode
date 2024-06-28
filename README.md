@@ -598,4 +598,12 @@
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Array
+|  |
+| ------- |
+| [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
+## Hash Table
+|  |
+| ------- |
+| [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
 <!---LeetCode Topics End-->
