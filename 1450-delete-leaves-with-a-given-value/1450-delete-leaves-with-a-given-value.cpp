@@ -18,8 +18,9 @@ void solve(TreeNode*& root , int target){
 
     solve(root->left,target);
     solve(root->right,target);
-        if(root->left==NULL &&root->right==NULL && root->val == target){
+    if(root->left==NULL &&root->right==NULL && root->val == target){
         root=NULL;
+        delete(root);
         return;
     }
 }
