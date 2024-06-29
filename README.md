@@ -611,6 +611,7 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -619,4 +620,12 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Tree
+|  |
+| ------- |
+| [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+## Binary Tree
+|  |
+| ------- |
+| [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
