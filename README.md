@@ -610,6 +610,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -623,9 +624,11 @@
 ## Tree
 |  |
 | ------- |
+| [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
+| [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 <!---LeetCode Topics End-->
