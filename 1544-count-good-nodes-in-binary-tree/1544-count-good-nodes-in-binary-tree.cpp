@@ -11,25 +11,22 @@
  */
 class Solution {
 private:
-void solve(TreeNode* root , int value , int& ans){
+int solve(TreeNode* root , int value){
     if(root==NULL){
-        return;
+        return 0;
     }
     if(root->val >= value){
-        ans++;
-        solve(root->left,root->val,ans);
-        solve(root->right , root->val,ans);
+       return 1+ solve(root->left,root->val) + solve(root->right , root->val);
+        
     }
     else{
-        solve(root->left,value,ans);
-        solve(root->right , value,ans);
+        
+        return solve(root->left,value)+solve(root->right , value);
     }
 
 }
 public:
     int goodNodes(TreeNode* root) {
-        int ans=0;
-        solve(root,INT_MIN,ans);
-        return ans;
+        return  solve(root,INT_MIN);
     }
 };
