@@ -1,11 +1,8 @@
 class Solution {
 private:
 int solve(string& s){
-    // vector<int> dp(s.length()+2 , 0);
     int next2=0;
     int next1=1;
-
-    // dp[s.length()]=1;
     for(int i=s.length()-1 ; i>=0 ; i--){
         int ans1=0;
         int ans2=0;
@@ -24,8 +21,6 @@ int solve(string& s){
         next1=curr;
     }
     return next1;
-    
-
 }
 public:
     int numDecodings(string s) {
