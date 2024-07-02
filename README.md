@@ -585,6 +585,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -599,6 +600,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -611,6 +613,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/deepanshu946/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -684,6 +687,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 ## Binary Search
 |  |
@@ -705,4 +709,12 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
