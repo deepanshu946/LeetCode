@@ -1,34 +1,18 @@
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> ans ;
-        int n1 = nums1.size();
-        int n2 =  nums2.size();
-        
-        if(n1>n2){
-            for(int i =0 ; i<n2 ; i++){
-                for(int j=0 ; j<n1 ; j++){
-                    if(nums2[i]==nums1[j]){
-                        ans.push_back(nums2[i]);
-                        nums1[j]=-1;
-                        break;
-                    }
-                }
-            }
+        unordered_map<int,int> s;
+        // s.insert(nums1.begin(),nums1.end());
+        for(int i=0 ; i<nums1.size() ; i++){
+            s[nums1[i]]++;
         }
-        else{
-            for(int i =0 ; i<n1 ; i++){
-                for(int j=0 ; j<n2 ; j++){
-                    if(nums1[i]==nums2[j]){
-                        ans.push_back(nums1[i]);
-                        nums2[j]=-1;
-                        break;
-                    }
-                }
+        vector<int> ans;
+        for(int i=0 ; i<nums2.size() ; i++){
+            if(s.find(nums2[i]) != s.end() && s[nums2[i]] != 0){
+                ans.push_back(nums2[i]);
+                s[nums2[i]]--;
             }
         }
         return ans;
-
-
     }
 };
