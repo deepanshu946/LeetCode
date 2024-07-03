@@ -684,6 +684,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepanshu946/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0688-knight-probability-in-chessboard](https://github.com/deepanshu946/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [1517-restore-the-array](https://github.com/deepanshu946/LeetCode/tree/master/1517-restore-the-array) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
