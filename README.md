@@ -613,6 +613,7 @@
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepanshu946/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -673,6 +674,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
 | [1517-restore-the-array](https://github.com/deepanshu946/LeetCode/tree/master/1517-restore-the-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshu946/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -718,6 +720,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -743,4 +746,8 @@
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshu946/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
