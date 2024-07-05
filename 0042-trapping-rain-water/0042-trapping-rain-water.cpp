@@ -22,7 +22,7 @@ public:
         vector<int> prev(n);
         prevgr(nums , prev,n);
         int ans = 0;
-        for(int i=1 ; i<n-1 ; i++){
+        for(int i=0 ; i<n ; i++){
             ans = ans + (min(next[i],prev[i])-nums[i]);
         }
         return ans;
