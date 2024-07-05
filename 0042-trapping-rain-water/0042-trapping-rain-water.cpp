@@ -22,13 +22,6 @@ public:
         vector<int> prev(n);
         prevgr(nums , prev,n);
         int ans = 0;
-        for(int i=0 ; i<n ; i++){
-            cout<<next[i]<<" ";
-        }
-        cout<<endl;
-                for(int i=0 ; i<n ; i++){
-            cout<<prev[i]<<" ";
-        }
         for(int i=1 ; i<n-1 ; i++){
             ans = ans + (min(next[i],prev[i])-nums[i]);
         }
