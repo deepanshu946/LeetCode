@@ -664,6 +664,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/deepanshu946/LeetCode/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -672,6 +673,7 @@
 | ------- |
 | [0337-house-robber-iii](https://github.com/deepanshu946/LeetCode/tree/master/0337-house-robber-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -735,6 +737,7 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
