@@ -706,6 +706,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
+| [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
 | ------- |
@@ -758,6 +759,7 @@
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Sliding Window
 |  |
 | ------- |
