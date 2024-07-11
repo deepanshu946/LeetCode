@@ -25,7 +25,7 @@ int solve(TreeNode* root , unordered_map<int,int> &m){
 public:
     vector<int> findFrequentTreeSum(TreeNode* root) {
         unordered_map<int,int> m;
-        int temp =solve(root,m);
+        solve(root,m);
         vector<int> ans;
         int maxi=INT_MIN;
         for(auto i:m){  
