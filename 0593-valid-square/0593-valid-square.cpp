@@ -5,13 +5,13 @@ public:
             return false;
         }
         unordered_map<double,int> m ;
-        double l1 = sqrt(pow(p1[0]-p2[0],2)+ pow(p1[1]-p2[1],2));
-        double l2 = sqrt(pow(p2[0]-p3[0],2)+ pow(p2[1]-p3[1],2));
+        double l1 = (pow(p1[0]-p2[0],2)+ pow(p1[1]-p2[1],2));
+        double l2 = (pow(p2[0]-p3[0],2)+ pow(p2[1]-p3[1],2));
         
-        double l3 = sqrt(pow(p3[0]-p4[0],2)+ pow(p3[1]-p4[1],2));
-        double l4 = sqrt(pow(p4[0]-p1[0],2)+ pow(p4[1]-p1[1],2));
-        double l5 = sqrt(pow(p2[0]-p4[0],2)+ pow(p2[1]-p4[1],2));
-        double l6 = sqrt(pow(p3[0]-p1[0],2)+ pow(p3[1]-p1[1],2));
+        double l3 = (pow(p3[0]-p4[0],2)+ pow(p3[1]-p4[1],2));
+        double l4 = (pow(p4[0]-p1[0],2)+ pow(p4[1]-p1[1],2));
+        double l5 = (pow(p2[0]-p4[0],2)+ pow(p2[1]-p4[1],2));
+        double l6 = (pow(p3[0]-p1[0],2)+ pow(p3[1]-p1[1],2));
 
         m[l1]++;
         m[l2]++;
