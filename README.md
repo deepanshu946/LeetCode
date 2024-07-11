@@ -727,6 +727,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Union Find
@@ -809,4 +810,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
