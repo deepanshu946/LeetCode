@@ -23,9 +23,6 @@ private:
         return make_pair(prev, curr);
     }
     bool check(ListNode* head, int k) {
-        if (k == 1) {
-            return head;
-        }
         ListNode* temp = head;
         int count = 0;
         while (temp != NULL) {
@@ -41,6 +38,7 @@ private:
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         //approach 1 - my approach
+        //TC=(n) SC = (1)
         // ListNode* newhead = NULL;
         // ListNode* temp = head;
         // ListNode* link = NULL;
@@ -73,10 +71,11 @@ public:
         
 
         //approach 2 - using recursion
-
+        //TC=(n) SC=(n)
         if(head==NULL || k==1){
             return  head;
         }
+        //if not enough nodes then return the head
         if(!check(head,k)){
             return head;
         }
