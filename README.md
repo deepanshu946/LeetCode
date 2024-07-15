@@ -613,6 +613,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
@@ -637,6 +638,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
