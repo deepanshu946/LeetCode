@@ -632,6 +632,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/deepanshu946/LeetCode/tree/master/1803-average-waiting-time) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -645,6 +646,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/deepanshu946/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0567-permutation-in-string) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Depth-First Search
@@ -689,6 +691,7 @@
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -702,6 +705,7 @@
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
