@@ -589,6 +589,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Graph
 |  |
 | ------- |
@@ -723,6 +724,7 @@
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [3312-number-of-changing-keys](https://github.com/deepanshu946/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
