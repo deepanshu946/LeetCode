@@ -44,8 +44,6 @@ public:
         if(nums.size()==0){
         return {-1,-1};
         }
-        int a = getfirst(nums,target);
-        int b = getlast(nums,target);
-        return {a,b};
+        return {getfirst(nums,target),getlast(nums,target)};
     }
 };
