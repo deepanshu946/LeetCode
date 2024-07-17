@@ -12,6 +12,7 @@
 class Solution {
 public:
     TreeNode* reverseOddLevels(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
         int level = 0;
         queue<TreeNode*> q;
         q.push(root);
