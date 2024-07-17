@@ -591,6 +591,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Graph
 |  |
 | ------- |
@@ -608,6 +609,7 @@
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -642,6 +644,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
