@@ -678,6 +678,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -709,6 +710,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -725,6 +727,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
