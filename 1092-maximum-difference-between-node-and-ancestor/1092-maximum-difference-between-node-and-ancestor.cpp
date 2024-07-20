@@ -15,9 +15,9 @@ void solve(int &ans , TreeNode* root , int val , int val2){
     if(root==NULL){
         return ;
     }
+    ans = max(ans,max(abs(root->val-val),abs(root->val-val2)));
     solve(ans,root->left,max(val,root->val) , min(val2,root->val));
     solve(ans,root->right,max(val,root->val),min(val2,root->val));
-    ans = max(ans,max(abs(root->val-val),abs(root->val-val2)));
 }
 public:
     int maxAncestorDiff(TreeNode* root) {
