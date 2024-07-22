@@ -609,6 +609,7 @@
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Heap (Priority Queue)
@@ -650,6 +651,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -670,6 +672,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
@@ -760,6 +763,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshu946/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
+| [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
 | [3312-number-of-changing-keys](https://github.com/deepanshu946/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Dynamic Programming
