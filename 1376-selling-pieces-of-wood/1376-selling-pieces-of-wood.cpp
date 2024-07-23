@@ -7,11 +7,11 @@ private:
 
         long long maxProfit = pricesMap[m][n];
         
-        for (int i = 1; i <= m / 2; ++i) {
+        for (int i = 1; i < m; ++i) {
             maxProfit = max(maxProfit, solve(i, n, dp, pricesMap) + solve(m - i, n, dp, pricesMap));
         }
 
-        for (int j = 1; j <= n / 2; ++j) {
+        for (int j = 1; j < n; ++j) {
             maxProfit = max(maxProfit, solve(m, j, dp, pricesMap) + solve(m, n - j, dp, pricesMap));
         }
 
