@@ -1,21 +1,23 @@
 class Solution {
 public:
     vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
-        unordered_map<int ,int > m;
-        for(int i=0 ; i<mapping.size() ; i++){
-            m[i]=mapping[i];
-        }
+        
         map<int,vector<int>> ans;
         for(int i=0  ; i<nums.size() ; i++){
             int num = nums[i];
             int tempval = nums[i];
             int k=0;
             int val = 0;
-            while(num!=0){
+            if(num==0){
+                val=mapping[num];
+            }
+            else{
+                while(num!=0){
                 int digit = num%10;
                 num=num/10;
-                val = val + (m[digit] * pow(10,k));
+                val = val + (mapping[digit] * pow(10,k));
                 k++;
+            }
             }
             cout<<val<<endl;
             cout<<num<<endl;
