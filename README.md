@@ -607,6 +607,7 @@
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1333-sort-the-jumbled-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
@@ -642,6 +643,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/deepanshu946/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
