@@ -757,6 +757,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/deepanshu946/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
@@ -775,6 +776,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
@@ -877,6 +879,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/deepanshu946/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/0113-path-sum-ii) |
