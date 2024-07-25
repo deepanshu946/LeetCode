@@ -5,14 +5,14 @@ int solve(int index , unordered_map<int,pair<int,int>> &map ,int ones , int zero
     if(zeros>m || ones>n){
         return INT_MIN;
     }
-    if(index==-1 ){
+    if(index==size){
         return 0;
     }
     if(dp[index][ones][zeros] !=-1){
         return dp[index][ones][zeros];
     }
-    int inc = 1+solve(index-1,map,ones+map[index].first,zeros+map[index].second , m , n , size);
-    int exc = solve(index-1,map,ones,zeros,m,n,size);
+    int inc = 1+solve(index+1,map,ones+map[index].first,zeros+map[index].second , m , n , size);
+    int exc = solve(index+1,map,ones,zeros,m,n,size);
     return dp[index][ones][zeros]= max(inc,exc);
 }
 public:
@@ -35,6 +35,6 @@ public:
             cout<<ones<<" "<<zeros<<endl;
             map[i]={ones,zeros};
         }
-        return solve(strs.size()-1,map,0,0,m,n,strs.size());
+        return solve(0,map,0,0,m,n,strs.size());
     }
 };
