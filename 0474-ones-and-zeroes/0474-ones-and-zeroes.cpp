@@ -1,40 +1,35 @@
 class Solution {
-private:
-int dp[602][200][200];
-int solve(int index , unordered_map<int,pair<int,int>> &map ,int ones , int zeros, int m , int n , int size){
-    if(zeros>m || ones>n){
-        return INT_MIN;
-    }
-    if(index==size){
-        return 0;
-    }
-    if(dp[index][ones][zeros] !=-1){
-        return dp[index][ones][zeros];
-    }
-    int inc = 1+solve(index+1,map,ones+map[index].first,zeros+map[index].second , m , n , size);
-    int exc = solve(index+1,map,ones,zeros,m,n,size);
-    return dp[index][ones][zeros]= max(inc,exc);
-}
 public:
-
     int findMaxForm(vector<string>& strs, int m, int n) {
-        memset(dp,-1,sizeof(dp));
-        unordered_map<int,pair<int,int>> map;
-        for(int i=0 ; i<strs.size() ; i++){
-            string s = strs[i];
-            int ones=0;
-            int zeros=0;
-            for(int j=0 ; j<s.length() ; j++){
-                if(s[j]=='1'){
-                    ones++;
-                }
-                else{
-                    zeros++;
+        // Initialize the dp array
+        vector<vector<vector<int>>> dp(strs.size() + 1, vector<vector<int>>(m + 1, vector<int>(n + 1, 0)));
+
+        // Preprocess the count of 0's and 1's in each string
+        vector<pair<int, int>> count(strs.size());
+        for (int i = 0; i < strs.size(); ++i) {
+            int ones = 0, zeros = 0;
+            for (char c : strs[i]) {
+                if (c == '1') ones++;
+                else zeros++;
+            }
+            count[i] = {ones, zeros};
+        }
+
+        // Fill the dp array
+        for (int i = 1; i <= strs.size(); ++i) {
+            int ones = count[i-1].first;
+            int zeros = count[i-1].second;
+            for (int j = 0; j <= m; ++j) {
+                for (int k = 0; k <= n; ++k) {
+                    if (j >= zeros && k >= ones) {
+                        dp[i][j][k] = max(dp[i-1][j][k], dp[i-1][j-zeros][k-ones] + 1);
+                    } else {
+                        dp[i][j][k] = dp[i-1][j][k];
+                    }
                 }
             }
-            cout<<ones<<" "<<zeros<<endl;
-            map[i]={ones,zeros};
         }
-        return solve(0,map,0,0,m,n,strs.size());
+
+        return dp[strs.size()][m][n];
     }
 };
