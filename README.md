@@ -655,6 +655,7 @@
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/deepanshu946/LeetCode/tree/master/1803-average-waiting-time) |
+| [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -796,6 +797,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1517-restore-the-array](https://github.com/deepanshu946/LeetCode/tree/master/1517-restore-the-array) |
+| [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
