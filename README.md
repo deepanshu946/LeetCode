@@ -603,6 +603,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -627,6 +628,7 @@
 | [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
@@ -669,6 +671,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -761,6 +764,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/deepanshu946/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
