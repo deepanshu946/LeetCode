@@ -633,6 +633,7 @@
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshu946/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/deepanshu946/LeetCode/tree/master/0189-rotate-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepanshu946/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -790,6 +791,7 @@
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepanshu946/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/deepanshu946/LeetCode/tree/master/0337-house-robber-iii) |
