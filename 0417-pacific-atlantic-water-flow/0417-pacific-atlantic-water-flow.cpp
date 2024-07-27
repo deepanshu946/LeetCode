@@ -2,9 +2,6 @@ class Solution {
 private:
     void solve(int i, int j, vector<vector<int>>& grid, vector<vector<bool>>& dp,
                int m, int n) {
-        if (i >= m || i < 0 || j >= n || j < 0) {
-            return;
-        }
         if (dp[i][j]) {
             return;
         }
