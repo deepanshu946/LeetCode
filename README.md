@@ -812,6 +812,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Math
 |  |
@@ -821,6 +822,7 @@
 | [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Union Find
 |  |
 | ------- |
@@ -855,6 +857,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Matrix
 |  |
 | ------- |
@@ -945,4 +948,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+## Combinatorics
+|  |
+| ------- |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 <!---LeetCode Topics End-->
