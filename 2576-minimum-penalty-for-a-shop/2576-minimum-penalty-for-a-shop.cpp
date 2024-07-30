@@ -29,13 +29,6 @@ public:
         }
 
         }
-        for(int i=0 ; i<=n ; i++){
-            cout<<temp[i]<<" ";
-        }
-        cout<<endl;
-        for(int i=0 ; i<=n ; i++){
-            cout<<temp2[i]<<" ";
-        }
         return time;
 
     }
