@@ -679,6 +679,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepanshu946/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepanshu946/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -706,6 +707,7 @@
 | [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepanshu946/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepanshu946/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
@@ -940,6 +942,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshu946/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2211-k-radius-subarray-averages](https://github.com/deepanshu946/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepanshu946/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 ## Backtracking
 |  |
