@@ -21,7 +21,6 @@ int solve(vector<vector<int>> &grid , vector<vector<int>> &vis , int i , int j ,
     if(i-1 >=0 && vis[i-1][j] == 0 ){
         area = area + solve(grid,vis,i-1,j,m,n);
     }
-    cout<<area+1<<endl;
     return area+1;
 
 
