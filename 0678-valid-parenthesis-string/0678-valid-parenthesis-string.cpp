@@ -1,6 +1,6 @@
 class Solution {
 private:
-int dp[102][102];
+// int dp[102][102];
 bool solve(string s , int index , int left){
     // if(left<0){
     //     return false;
@@ -41,14 +41,10 @@ bool solve(string s , int index , int left){
         next = curr;
     }
     return curr[0];
-
-
-
-    
 }
 public:
     bool checkValidString(string s) {
-        memset(dp,-1,sizeof(dp));
+        // memset(dp,-1,sizeof(dp));
         return solve(s,0,0);
         
     }
