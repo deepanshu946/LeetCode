@@ -15,8 +15,8 @@ bool solve(string s , int index , int left){
     //     return dp[index][left];
     // }
     // vector<vector<int>> dp(s.length()+1 , vector<int>(s.length()+1,0));
-    vector<int> curr(s.length()+1,0);
-    vector<int> next(s.length()+1,0);
+    vector<bool> curr(s.length()+1,0);
+    vector<bool> next(s.length()+1,0);
     next[0]=1;
     // dp[s.length()][0]=1;
     for(int index=s.length()-1 ; index>=0 ; index--){
