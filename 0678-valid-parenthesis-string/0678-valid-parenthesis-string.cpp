@@ -14,29 +14,33 @@ bool solve(string s , int index , int left){
     // if(dp[index][left] != -1){
     //     return dp[index][left];
     // }
-    vector<vector<int>> dp(s.length()+1 , vector<int>(s.length()+1,0));
-    dp[s.length()][0]=1;
+    // vector<vector<int>> dp(s.length()+1 , vector<int>(s.length()+1,0));
+    vector<int> curr(s.length()+1,0);
+    vector<int> next(s.length()+1,0);
+    next[0]=1;
+    // dp[s.length()][0]=1;
     for(int index=s.length()-1 ; index>=0 ; index--){
         for(int left=s.length()-1 ; left>=0 ; left--){
             bool ans = 0;
             if(s[index]=='('){
-            ans = ans | dp[index+1][left+1];
+            ans = ans | next[left+1];
             }
             if(s[index]==')'){
                 if(left-1>=0)
-                    ans = ans | dp[index+1][left-1];
+                    ans = ans | next[left-1];
             }
             if(s[index]=='*'){
                 
-                ans = ans | dp[index+1][left+1] ;
+                ans = ans | next[left+1] ;
                 if(left-1>=0)
-                    ans = ans | dp[index+1][left-1] ;
-                ans = ans | dp[index+1][left];
+                    ans = ans | next[left-1] ;
+                ans = ans | next[left];
             }
-             dp[index][left]=ans;
+             curr[left]=ans;
         }
+        next = curr;
     }
-    return dp[0][0];
+    return curr[0];
 
 
 
