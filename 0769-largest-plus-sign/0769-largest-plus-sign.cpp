@@ -5,7 +5,7 @@ public:
         for(int i=0 ; i<mines.size() ; i++){
             s.insert({mines[i][0],mines[i][1]});
         }
-        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        vector<vector<int>> dp(n,vector<int>(n,0));
         for(int i=n-2 ; i>=0 ; i--){
             for(int j=0 ; j<n ; j++){
                 if(s.count({i,j}) == 0){
@@ -13,7 +13,7 @@ public:
                 }
             }
         }
-        vector<vector<int>> dp2(n+1,vector<int>(n+1,0));
+        vector<vector<int>> dp2(n,vector<int>(n,0));
         for(int i=0 ; i<n ; i++){
             for(int j=1 ; j<n ; j++){
                 if(s.count({i,j}) == 0){
@@ -21,7 +21,7 @@ public:
                 }
             }
         }
-        vector<vector<int>> dp3(n+1,vector<int>(n+1,0));
+        vector<vector<int>> dp3(n,vector<int>(n,0));
         for(int i=1 ; i<n ; i++){
             for(int j=0 ; j<n ; j++){
                 if(s.count({i,j}) == 0){
@@ -29,7 +29,7 @@ public:
                 }
             }
         }
-        vector<vector<int>> dp4(n+1,vector<int>(n+1,0));
+        vector<vector<int>> dp4(n,vector<int>(n,0));
         for(int i=0 ; i<n ; i++){
             for(int j=n-2 ; j>=0 ; j--){
                 if(s.count({i,j}) == 0){
