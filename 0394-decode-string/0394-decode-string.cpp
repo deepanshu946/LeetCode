@@ -1,57 +1,51 @@
 class Solution {
-private:
-int convert(string digit){
-    int ans = 0;
-    for(int i=0 ; i<digit.length() ; i++){
-        ans = (ans*10)+(digit[i]-48);
-    }
-    return ans;
-}
 public:
+    
+    
     string decodeString(string s) {
-        stack<string> st;
-        int i=0;
-        while(i<s.length()){
-            if(s[i]==']'){
-                string temp = "";
-                while(st.top() != "["){
-                    temp = temp+st.top();
-                    st.pop();
-                }
+       stack<string> st;
+       for(int i=0;i<s.size();i++)
+       {  char ch=s[i];
+        if(ch==']')
+        { 
+            string repeating="";
+            while(st.top()!="[")
+            {
+                repeating=repeating+st.top();
                 st.pop();
-                string digit = st.top();
-                st.pop();
-                int val = convert(digit);
-                string final="";
-                while(val--){
-                    final = final+temp;
-                }
-                st.push(final);
             }
-            else{
-                if(s[i]>='0' && s[i]<='9'){
-                    string digit="";
-                    while(s[i]>='0' && s[i]<='9'){
-                        digit = digit + s[i];
-                        i++;
-                    }
-                    st.push(digit);
-                    i--;
-                }
-                else{
-                    string temp = "";
-                    temp = s[i];
-                    st.push(temp);
-                }
-            }
-            i++;
-        }
-        string ans = "";
-        while(!st.empty()){
-            ans = ans + st.top();
+
             st.pop();
+            string number="";
+            while(!st.empty() && isdigit(st.top()[0]))
+            {
+                number=number+st.top();
+                st.pop();
+            }
+            reverse(number.begin(),number.end());
+            int no=stoi(number);
+             
+             string temp="";
+            while(no!=0)
+            {
+                 temp=temp+repeating;
+                 no--;
+            }
+            st.push(temp);
         }
-        reverse(ans.begin() ,ans.end());
-        return ans;
+        else{
+            string temp = "";
+            temp.push_back(ch);
+            st.push(temp);
+        }
+       }
+       string ans="";
+       while(!st.empty())
+       {
+            ans=ans+st.top();
+            st.pop();
+       }
+       reverse(ans.begin(),ans.end());
+       return ans;
     }
 };
