@@ -654,6 +654,7 @@
 | [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -945,6 +946,7 @@
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshu946/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/deepanshu946/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -957,6 +959,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [1803-average-waiting-time](https://github.com/deepanshu946/LeetCode/tree/master/1803-average-waiting-time) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepanshu946/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
