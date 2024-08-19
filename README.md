@@ -1004,6 +1004,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepanshu946/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0725-split-linked-list-in-parts](https://github.com/deepanshu946/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/deepanshu946/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Trie
