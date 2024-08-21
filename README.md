@@ -585,6 +585,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshu946/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -815,6 +816,7 @@
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0306-additive-number](https://github.com/deepanshu946/LeetCode/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/deepanshu946/LeetCode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -952,6 +954,7 @@
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshu946/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
@@ -964,6 +967,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/deepanshu946/LeetCode/tree/master/0739-daily-temperatures) |
 ## Simulation
