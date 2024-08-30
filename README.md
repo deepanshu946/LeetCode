@@ -868,6 +868,7 @@
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1332-count-vowels-permutation](https://github.com/deepanshu946/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshu946/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
