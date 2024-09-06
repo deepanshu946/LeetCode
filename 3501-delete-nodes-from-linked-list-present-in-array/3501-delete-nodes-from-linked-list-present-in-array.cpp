@@ -21,7 +21,7 @@ public:
                 if(newhead==NULL){
                     newhead= temp;
                 }
-                prev = temp ;
+                prev = temp;
             }
             else{
                 if(prev != NULL){
