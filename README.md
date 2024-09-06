@@ -885,6 +885,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshu946/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1517-restore-the-array](https://github.com/deepanshu946/LeetCode/tree/master/1517-restore-the-array) |
+| [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
@@ -903,6 +904,7 @@
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/deepanshu946/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2383-add-two-integers](https://github.com/deepanshu946/LeetCode/tree/master/2383-add-two-integers) |
@@ -1099,6 +1101,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Prefix Sum
 |  |
