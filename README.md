@@ -617,6 +617,7 @@
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/deepanshu946/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1333-sort-the-jumbled-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -674,6 +675,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/deepanshu946/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/deepanshu946/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1293-three-consecutive-odds](https://github.com/deepanshu946/LeetCode/tree/master/1293-three-consecutive-odds) |
