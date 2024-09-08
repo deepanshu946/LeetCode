@@ -895,6 +895,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshu946/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1517-restore-the-array](https://github.com/deepanshu946/LeetCode/tree/master/1517-restore-the-array) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -969,6 +970,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Matrix
