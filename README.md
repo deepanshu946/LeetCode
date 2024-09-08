@@ -592,6 +592,7 @@
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -620,6 +621,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
@@ -684,6 +686,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/deepanshu946/LeetCode/tree/master/1803-average-waiting-time) |
@@ -911,6 +914,7 @@
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/deepanshu946/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
@@ -1137,4 +1141,8 @@
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
