@@ -898,6 +898,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepanshu946/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
+| [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -926,6 +927,7 @@
 | [0367-valid-perfect-square](https://github.com/deepanshu946/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/deepanshu946/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1176,4 +1178,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
