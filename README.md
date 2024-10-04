@@ -679,6 +679,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/deepanshu946/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
+| [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/deepanshu946/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -997,6 +998,7 @@
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
+| [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1142,6 +1144,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1833-find-the-highest-altitude](https://github.com/deepanshu946/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
