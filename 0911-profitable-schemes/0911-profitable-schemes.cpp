@@ -23,7 +23,7 @@ public:
     int profitableSchemes(int n, int val, vector<int>& group, vector<int>& profit) {
         // return solve(n,minProfit,group,profit,0,0,group.size());
         int size = group.size();
-        vector<vector<vector<int>>> dp(size+1,vector<vector<int>>(n+1,vector<int>(val+1,0)));
+        vector<vector<vector<int>>> dp(101,vector<vector<int>>(101,vector<int>(101,0)));
         for(int i=0 ; i<=n ; i++){
             dp[size][i][val]=1;
         }
