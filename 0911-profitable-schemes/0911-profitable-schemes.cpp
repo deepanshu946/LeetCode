@@ -32,11 +32,11 @@ public:
                 for(int curr=val ; curr>=0 ; curr--){
                     int inc = 0;
                     if(i-group[index] >= 0){
-                        int temp = curr+profit[index];
-                        if(temp>val){
-                            temp=val;
-                        }
-                        inc = (dp[index+1][i-group[index]][temp])%mod;
+                        // int temp = curr+profit[index];
+                        // if(temp>val){
+                        //     temp=val;
+                        // }
+                        inc = (dp[index+1][i-group[index]][min(val,curr+profit[index])])%mod;
                     }
                     int exc = dp[index+1][i][curr] % mod;
                     dp[index][i][curr]= (inc + exc)%mod;
