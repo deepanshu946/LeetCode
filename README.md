@@ -682,6 +682,7 @@
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1293-three-consecutive-odds](https://github.com/deepanshu946/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1310-watering-plants](https://github.com/deepanshu946/LeetCode/tree/master/1310-watering-plants) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1045,6 +1046,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1310-watering-plants](https://github.com/deepanshu946/LeetCode/tree/master/1310-watering-plants) |
 | [1803-average-waiting-time](https://github.com/deepanshu946/LeetCode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
