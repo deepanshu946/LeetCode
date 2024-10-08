@@ -726,6 +726,7 @@
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshu946/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -760,6 +761,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -889,6 +891,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3312-number-of-changing-keys](https://github.com/deepanshu946/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 ## Dynamic Programming
 |  |
 | ------- |
