@@ -613,6 +613,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/deepanshu946/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -648,6 +649,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepanshu946/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/deepanshu946/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/deepanshu946/LeetCode/tree/master/0046-permutations) |
@@ -985,6 +987,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/deepanshu946/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshu946/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/deepanshu946/LeetCode/tree/master/0189-rotate-array) |
