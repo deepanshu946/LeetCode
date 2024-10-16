@@ -39,9 +39,6 @@ public:
             }
             pq.push(p);
             pq.push(p2);
-            cout<<ans<<endl;
-
-
         }
         pair<int,int> p = pq.top();
         if(p.first != 0 ){
