@@ -13,7 +13,7 @@ public:
         }
         if(nums[0]=='t'){
             return true;
-        }
+        } 
         stack<char> s;
         for(int i=0 ; i<nums.length() ; i++){
             if(oper(nums[i])){
