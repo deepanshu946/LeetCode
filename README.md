@@ -932,6 +932,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2401-count-asterisks](https://github.com/deepanshu946/LeetCode/tree/master/2401-count-asterisks) |
+| [2470-removing-stars-from-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -1106,6 +1107,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/deepanshu946/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -1129,6 +1131,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepanshu946/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/deepanshu946/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Sliding Window
