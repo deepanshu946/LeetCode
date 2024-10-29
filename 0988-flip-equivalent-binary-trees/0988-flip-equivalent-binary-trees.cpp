@@ -14,29 +14,21 @@ private:
 void solve(TreeNode* root1 , TreeNode* root2 , bool &ans){
     
     if(root1 == NULL && root2 != NULL){
-        cout<<"here5"<<endl;
         ans = 0;
         return;
     }
     if(root1 != NULL && root2==NULL ){
         ans = 0 ;
-        cout<<"here4"<<endl;
-
         return;
     }
     if(root1==NULL && root2==NULL){
-        cout<<"here3"<<endl;
-
         return;
 
     }
     if(ans == 0){
-        cout<<"here1"<<endl;
-
         return;
     }
     if(root1->val != root2->val){
-        cout<<"here2"<<endl;
 
         ans=0;
         return;
@@ -63,7 +55,6 @@ void solve(TreeNode* root1 , TreeNode* root2 , bool &ans){
 
     }
     else {
-        cout<<root1->val<<" "<<root2->val<<endl;
         solve(root1->left,root2->left , ans);
         solve(root1->right,root2->right , ans);
     }
