@@ -815,6 +815,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepanshu946/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -838,6 +839,7 @@
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -872,6 +874,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepanshu946/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -899,6 +902,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepanshu946/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
