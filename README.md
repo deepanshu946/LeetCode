@@ -967,6 +967,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3312-number-of-changing-keys](https://github.com/deepanshu946/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3451-string-compression-iii](https://github.com/deepanshu946/LeetCode/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 ## Dynamic Programming
