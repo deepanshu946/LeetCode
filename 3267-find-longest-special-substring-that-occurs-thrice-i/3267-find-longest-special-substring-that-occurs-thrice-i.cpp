@@ -4,15 +4,20 @@ public:
         vector<vector<int>> dp(26,vector<int>(51,0));
         int n = s.length();
         
-        vector<int> count(50,1);
+        // vector<int> count(50,1);
+        int prev=1;
         for(int i=0 ; i<n ; i++){
             int len = 1;
             if(i>0 && s[i-1]==s[i]){
-                int index = i-1;
-                if(index!=-1){
-                    len = count[index]+1;
-                    count[i]=count[i-1]+1;
-                }
+                // int index = i-1;
+                // if(index!=-1){
+                    len = prev+1;
+                    // count[i]=count[i-1]+1;
+                // }
+                prev++;
+            }
+            else{
+                prev=1;
             }
             int row = s[i]-'a';
             for(int j=1 ; j<=len ; j++){
