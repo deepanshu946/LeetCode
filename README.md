@@ -797,6 +797,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/deepanshu946/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 ## Depth-First Search
@@ -970,6 +971,7 @@
 | [2569-number-of-beautiful-partitions](https://github.com/deepanshu946/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-number-of-changing-keys](https://github.com/deepanshu946/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3451-string-compression-iii](https://github.com/deepanshu946/LeetCode/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -1091,6 +1093,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1187,6 +1190,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepanshu946/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -1258,6 +1262,7 @@
 | [1483-rank-teams-by-votes](https://github.com/deepanshu946/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepanshu946/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
 | ------- |
