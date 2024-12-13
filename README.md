@@ -993,6 +993,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepanshu946/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/deepanshu946/LeetCode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/deepanshu946/LeetCode/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepanshu946/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -1034,6 +1035,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/deepanshu946/LeetCode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/deepanshu946/LeetCode/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/deepanshu946/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/deepanshu946/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
