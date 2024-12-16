@@ -738,6 +738,7 @@
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2211-k-radius-subarray-averages](https://github.com/deepanshu946/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -969,6 +970,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2401-count-asterisks](https://github.com/deepanshu946/LeetCode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -1081,6 +1083,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/deepanshu946/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1182,6 +1185,7 @@
 | [1803-average-waiting-time](https://github.com/deepanshu946/LeetCode/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepanshu946/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/deepanshu946/LeetCode/tree/master/2411-spiral-matrix-iv) |
