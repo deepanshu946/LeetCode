@@ -985,6 +985,7 @@
 | [3451-string-compression-iii](https://github.com/deepanshu946/LeetCode/tree/master/3451-string-compression-iii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/deepanshu946/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1197,6 +1198,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepanshu946/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/deepanshu946/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Sliding Window
 |  |
 | ------- |
