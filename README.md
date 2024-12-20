@@ -625,6 +625,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
@@ -652,6 +653,7 @@
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/deepanshu946/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
@@ -699,6 +701,7 @@
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/deepanshu946/LeetCode/tree/master/0890-lemonade-change) |
@@ -1089,6 +1092,7 @@
 | [0443-string-compression](https://github.com/deepanshu946/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1112,6 +1116,7 @@
 | [0367-valid-perfect-square](https://github.com/deepanshu946/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
