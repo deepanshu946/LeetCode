@@ -710,6 +710,7 @@
 | [0911-profitable-schemes](https://github.com/deepanshu946/LeetCode/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/deepanshu946/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
@@ -795,6 +796,7 @@
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/deepanshu946/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
@@ -975,6 +977,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepanshu946/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0858-masking-personal-information](https://github.com/deepanshu946/LeetCode/tree/master/0858-masking-personal-information) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepanshu946/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
