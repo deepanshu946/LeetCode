@@ -603,6 +603,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepanshu946/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -1003,6 +1004,7 @@
 | [2569-number-of-beautiful-partitions](https://github.com/deepanshu946/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-number-of-changing-keys](https://github.com/deepanshu946/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3451-string-compression-iii](https://github.com/deepanshu946/LeetCode/tree/master/3451-string-compression-iii) |
@@ -1059,6 +1061,7 @@
 | [2569-number-of-beautiful-partitions](https://github.com/deepanshu946/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2648-number-of-ways-to-earn-points](https://github.com/deepanshu946/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Math
