@@ -705,6 +705,7 @@
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0810-valid-tic-tac-toe-state](https://github.com/deepanshu946/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/deepanshu946/LeetCode/tree/master/0890-lemonade-change) |
@@ -1173,6 +1174,7 @@
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0810-valid-tic-tac-toe-state](https://github.com/deepanshu946/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/deepanshu946/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
