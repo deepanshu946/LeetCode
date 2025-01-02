@@ -5,7 +5,7 @@ int solve(int i , vector<int>&nums , int n , int curr , vector<vector<int>> &dp)
         return 0;
     }
 
-    if(curr >= 2e3){
+    if(curr >= 4000){
         return 0;
     }
     if(dp[i][curr] != -1){
