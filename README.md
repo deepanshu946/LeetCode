@@ -630,6 +630,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -709,6 +710,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0810-valid-tic-tac-toe-state](https://github.com/deepanshu946/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/deepanshu946/LeetCode/tree/master/0890-lemonade-change) |
 | [0911-profitable-schemes](https://github.com/deepanshu946/LeetCode/tree/master/0911-profitable-schemes) |
@@ -804,6 +806,7 @@
 | [0567-permutation-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
+| [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
@@ -988,6 +991,7 @@
 | [0678-valid-parenthesis-string](https://github.com/deepanshu946/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepanshu946/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0858-masking-personal-information](https://github.com/deepanshu946/LeetCode/tree/master/0858-masking-personal-information) |
+| [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
