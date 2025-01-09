@@ -585,6 +585,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/deepanshu946/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -675,6 +676,7 @@
 | [0046-permutations](https://github.com/deepanshu946/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
@@ -1030,6 +1032,7 @@
 | [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
