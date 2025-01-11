@@ -973,6 +973,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/deepanshu946/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/deepanshu946/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
@@ -1090,6 +1091,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/deepanshu946/LeetCode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/deepanshu946/LeetCode/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/deepanshu946/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/deepanshu946/LeetCode/tree/master/0189-rotate-array) |
@@ -1244,6 +1246,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/deepanshu946/LeetCode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1310-watering-plants](https://github.com/deepanshu946/LeetCode/tree/master/1310-watering-plants) |
