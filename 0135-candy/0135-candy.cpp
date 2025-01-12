@@ -14,7 +14,6 @@ public:
                 temp=0;
             }
         }
-        cout<<ans<<endl;
         temp=0;
         for(int i=nums.size()-2 ; i>=0 ; i--){
             
