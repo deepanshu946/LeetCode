@@ -586,6 +586,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/deepanshu946/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/deepanshu946/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -679,6 +680,7 @@
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
+| [0135-candy](https://github.com/deepanshu946/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
