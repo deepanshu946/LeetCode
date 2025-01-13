@@ -593,6 +593,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0670-maximum-swap](https://github.com/deepanshu946/LeetCode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshu946/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0797-rabbits-in-forest](https://github.com/deepanshu946/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/deepanshu946/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -709,6 +710,7 @@
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0797-rabbits-in-forest](https://github.com/deepanshu946/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0810-valid-tic-tac-toe-state](https://github.com/deepanshu946/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -809,6 +811,7 @@
 | [0567-permutation-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
+| [0797-rabbits-in-forest](https://github.com/deepanshu946/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1106,6 +1109,7 @@
 | [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/deepanshu946/LeetCode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/deepanshu946/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/deepanshu946/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
