@@ -8,10 +8,7 @@ public:
         int ans = 0;
         for(auto i:m){
             int temp = i.first+1;
-            if(i.second <= temp){
-                ans = ans+temp;
-            }
-            else if(i.second%temp != 0){
+            if(i.second%temp != 0){
                 ans = ans+(temp*(i.second/temp))+temp;
             }
             else{
