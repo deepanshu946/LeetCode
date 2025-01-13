@@ -1,16 +1,16 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        unordered_map<char,int> m;
+        vector<int> freq(26,0);
         for(int i=0 ; i<s.length() ; i++){
-            m[s[i]]++;
+            freq[s[i]-'a']++;
         }
         int ans = 0;
-        for(auto i:m){
-            if(i.second%2==0){
+        for(int i=0 ; i<26 ; i++){
+            if(freq[i]!=0 && freq[i]%2 ==0){
                 ans=ans+2;
             }
-            else{
+            else if(freq[i] != 0){
                 ans++;
             }
         }
