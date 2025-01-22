@@ -700,6 +700,7 @@
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
@@ -899,6 +900,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/deepanshu946/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/deepanshu946/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0542-01-matrix) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
@@ -1066,6 +1068,7 @@
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/deepanshu946/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/deepanshu946/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -1204,6 +1207,7 @@
 | [0200-number-of-islands](https://github.com/deepanshu946/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepanshu946/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
