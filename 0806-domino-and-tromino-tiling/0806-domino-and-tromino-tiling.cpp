@@ -3,16 +3,24 @@ public:
     #define mod 1000000007
     int numTilings(int n) {
         vector<int> temp(n+10,0);
-        
-        temp[1]=1;
-        temp[2]=2;
-        temp[3]=5;
-        if(n<=3){
-            return temp[n];
+        if(n==1){
+            return 1;
         }
+        if(n==2){
+            return 2;
+        }
+        if(n==3){
+            return 5;
+        }
+        int prev1=1;
+        int prev2=2;
+        int prev3=5;
         for(int i=4 ; i<=n; i++){
-            temp[i]=(((2*temp[i-1])%mod)+temp[i-3])%mod;
+            int temp=(((2*prev3)%mod)+prev1)%mod;
+            prev1=prev2;
+            prev2=prev3;
+            prev3=temp;
         }
-        return temp[n] % mod;
+        return prev3 % mod;
     }
 };
