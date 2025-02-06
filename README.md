@@ -769,6 +769,7 @@
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/deepanshu946/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -918,6 +919,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/deepanshu946/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/deepanshu946/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepanshu946/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1229,6 +1231,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1876-map-of-highest-peak](https://github.com/deepanshu946/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/deepanshu946/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepanshu946/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/deepanshu946/LeetCode/tree/master/2411-spiral-matrix-iv) |
