@@ -724,6 +724,7 @@
 | [0907-koko-eating-bananas](https://github.com/deepanshu946/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0911-profitable-schemes](https://github.com/deepanshu946/LeetCode/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/deepanshu946/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -829,6 +830,7 @@
 | [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/deepanshu946/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/deepanshu946/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -1316,6 +1318,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0940-fruit-into-baskets](https://github.com/deepanshu946/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/deepanshu946/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deepanshu946/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
