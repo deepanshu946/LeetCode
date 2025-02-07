@@ -7,20 +7,15 @@ public:
         for(int i=0 ; i<queries.size() ; i++){
             int ball = queries[i][0];
             int colorr = queries[i][1];
-            if(balltocolor.find(ball)== balltocolor.end()){
-                balltocolor[ball]=colorr;
-                color[colorr].insert(ball);
-            }
-            else{
+            if(balltocolor.find(ball) != balltocolor.end()){
                 int tempcolor = balltocolor[ball];
                 color[tempcolor].erase(ball);
                 if(color[tempcolor].size()==0){
                     color.erase(tempcolor);
                 }
-                balltocolor[ball]=colorr;
-                color[colorr].insert(ball);
-
-            }
+        }
+            balltocolor[ball]=colorr;
+            color[colorr].insert(ball);
             ans.push_back(color.size());
 
         }
