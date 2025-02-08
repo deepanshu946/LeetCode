@@ -7,11 +7,9 @@ public:
             return {};
         }
         int k = sl%l;
-        unordered_set<string> nochange;
         unordered_map<string,int> store;
         for(int i=0 ; i<words.size() ; i++){
             store[words[i]]++;
-            nochange.insert(words[i]);
         }
         unordered_map<string,int> m;
         vector<int> ans;
