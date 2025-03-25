@@ -724,6 +724,7 @@
 | [0810-valid-tic-tac-toe-state](https://github.com/deepanshu946/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
+| [0879-maximize-distance-to-closest-person](https://github.com/deepanshu946/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/deepanshu946/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/deepanshu946/LeetCode/tree/master/0907-koko-eating-bananas) |
