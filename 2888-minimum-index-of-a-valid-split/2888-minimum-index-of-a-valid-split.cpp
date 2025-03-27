@@ -34,7 +34,6 @@ public:
         for(int i=nums.size()-2 ; i>=0 ; i--){
                 pq.push({nums[i+1],m[nums[i+1]]});
                 pair<int,int> topp = pq.top();
-                cout<<topp.second<<endl;
                 if(topp.second > (nums.size()-i-1)/2){
                     rtl[i]=topp.first;
                 }
@@ -42,7 +41,6 @@ public:
 
         }
         for(int i=0 ; i<nums.size() ; i++){
-            cout<<ltr[i]<<" "<<rtl[i]<<endl;
             if(ltr[i]==rtl[i] && ltr[i] != -1){
                 return i;
             }
