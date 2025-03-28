@@ -603,6 +603,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepanshu946/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -670,6 +671,7 @@
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
+| [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1177,6 +1179,7 @@
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/deepanshu946/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
