@@ -36,7 +36,6 @@ public:
         for(int i=0 ; i<m ; i++){
             for(int j=0 ; j<n ; j++){
                 if(vis[i][j] == 0 && grid[i][j]==0){
-                    cout<<i<<" "<<j<<endl;
                     bool temp = solve(i,j,grid,vis,m,n);
                     if(temp){
                         ans++;
