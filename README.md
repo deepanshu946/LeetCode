@@ -819,6 +819,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/deepanshu946/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3430-count-days-without-meetings](https://github.com/deepanshu946/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepanshu946/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
