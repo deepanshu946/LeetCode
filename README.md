@@ -1145,6 +1145,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
+| [0804-rotated-digits](https://github.com/deepanshu946/LeetCode/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/deepanshu946/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
 | [0911-profitable-schemes](https://github.com/deepanshu946/LeetCode/tree/master/0911-profitable-schemes) |
@@ -1193,6 +1194,7 @@
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/deepanshu946/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/deepanshu946/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0804-rotated-digits](https://github.com/deepanshu946/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/deepanshu946/LeetCode/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
