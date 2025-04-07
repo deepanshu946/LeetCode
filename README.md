@@ -846,6 +846,7 @@
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0398-random-pick-index](https://github.com/deepanshu946/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/deepanshu946/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -1186,6 +1187,7 @@
 | [0343-integer-break](https://github.com/deepanshu946/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/deepanshu946/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/deepanshu946/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/deepanshu946/LeetCode/tree/master/0398-random-pick-index) |
 | [0445-add-two-numbers-ii](https://github.com/deepanshu946/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -1571,8 +1573,10 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/deepanshu946/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/deepanshu946/LeetCode/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/deepanshu946/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/deepanshu946/LeetCode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
