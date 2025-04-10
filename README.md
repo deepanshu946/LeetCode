@@ -598,6 +598,7 @@
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/deepanshu946/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepanshu946/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1077,6 +1078,7 @@
 | [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepanshu946/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepanshu946/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1337,6 +1339,7 @@
 | [0678-valid-parenthesis-string](https://github.com/deepanshu946/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/deepanshu946/LeetCode/tree/master/0739-daily-temperatures) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepanshu946/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/deepanshu946/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepanshu946/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
