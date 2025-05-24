@@ -748,6 +748,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/deepanshu946/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/deepanshu946/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -934,6 +935,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepanshu946/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -967,6 +969,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
@@ -1231,6 +1234,7 @@
 | [0200-number-of-islands](https://github.com/deepanshu946/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepanshu946/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepanshu946/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -1310,6 +1314,7 @@
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0810-valid-tic-tac-toe-state](https://github.com/deepanshu946/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
+| [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/deepanshu946/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
