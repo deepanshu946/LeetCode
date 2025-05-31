@@ -829,6 +829,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3114-beautiful-towers-i](https://github.com/deepanshu946/LeetCode/tree/master/3114-beautiful-towers-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/deepanshu946/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3430-count-days-without-meetings](https://github.com/deepanshu946/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1378,6 +1379,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/deepanshu946/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3114-beautiful-towers-i](https://github.com/deepanshu946/LeetCode/tree/master/3114-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/deepanshu946/LeetCode/tree/master/3447-clear-digits) |
 | [3634-find-mirror-score-of-a-string](https://github.com/deepanshu946/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Monotonic Stack
@@ -1391,6 +1393,7 @@
 | [1002-maximum-width-ramp](https://github.com/deepanshu946/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3114-beautiful-towers-i](https://github.com/deepanshu946/LeetCode/tree/master/3114-beautiful-towers-i) |
 ## Simulation
 |  |
 | ------- |
