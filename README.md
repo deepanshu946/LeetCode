@@ -1074,6 +1074,7 @@
 | [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/deepanshu946/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/deepanshu946/LeetCode/tree/master/0179-largest-number) |
@@ -1151,6 +1152,7 @@
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/deepanshu946/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -1452,6 +1454,7 @@
 | [0077-combinations](https://github.com/deepanshu946/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/deepanshu946/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/deepanshu946/LeetCode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
