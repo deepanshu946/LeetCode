@@ -829,6 +829,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/deepanshu946/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepanshu946/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
@@ -914,6 +915,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/deepanshu946/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/deepanshu946/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepanshu946/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1586,6 +1588,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/deepanshu946/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bitmask
 |  |
