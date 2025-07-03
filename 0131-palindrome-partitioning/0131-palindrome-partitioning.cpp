@@ -13,9 +13,9 @@ bool check(string str){
     }
     return true;
 }
-void solve(int start , int curr ,string s, vector<string> &temp, vector<vector<string>> &ans){
-    if(curr>=s.length()){
-        string subs = s.substr(start,curr-start+1);
+void solve(int start ,string s, vector<string> &temp, vector<vector<string>> &ans){
+    if(start>=s.length()){
+        string subs = s.substr(start,1);
         if(subs.size() != 0 && check(subs)){
             temp.push_back(subs);
             ans.push_back(temp);
@@ -31,7 +31,7 @@ void solve(int start , int curr ,string s, vector<string> &temp, vector<vector<s
         string subs = s.substr(start,i-start+1);
         if(check(subs)){
             temp.push_back(subs);
-            solve(i+1,i+1,s,temp,ans);
+            solve(i+1,s,temp,ans);
             temp.pop_back();
         }
     }
@@ -40,7 +40,7 @@ public:
     vector<vector<string>> partition(string s) {
         vector<vector<string>> ans;
         vector<string> temp;
-        solve(0,0,s,temp,ans);
+        solve(0,s,temp,ans);
         return ans;
     }
 };
