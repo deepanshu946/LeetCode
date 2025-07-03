@@ -15,15 +15,15 @@ bool check(string str){
 }
 void solve(int start ,string s, vector<string> &temp, vector<vector<string>> &ans){
     if(start>=s.length()){
-        string subs = s.substr(start,1);
-        if(subs.size() != 0 && check(subs)){
-            temp.push_back(subs);
+        // string subs = s.substr(start,1);
+        // if(subs.size() != 0 && check(subs)){
+        //     temp.push_back(subs);
+        //     ans.push_back(temp);
+        //     temp.pop_back();
+        // }
+        // if(subs.size()==0){
             ans.push_back(temp);
-            temp.pop_back();
-        }
-        if(subs.size()==0){
-            ans.push_back(temp);
-        }
+        // }
         // temp.clear();
         return;
     }
