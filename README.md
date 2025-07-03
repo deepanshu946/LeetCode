@@ -607,6 +607,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/deepanshu946/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepanshu946/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -679,6 +680,7 @@
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/deepanshu946/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -810,6 +812,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/deepanshu946/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepanshu946/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepanshu946/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
