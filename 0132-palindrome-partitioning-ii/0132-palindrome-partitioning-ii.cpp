@@ -1,14 +1,31 @@
 class Solution {
 private:
-bool check(int i , int j , string&s){
-    while(i<=j){
-        if(s[i] != s[j]){
-            return false;
+// bool check(int i , int j , string&s){
+//     while(i<=j){
+//         if(s[i] != s[j]){
+//             return false;
+//         }
+//         i++;
+//         j--;
+//     }
+//     return true;
+// }
+vector<vector<bool>> pal; // we will compute isPalindrome! in advance because
+                          // iske kaaran tle aaraha!
+
+void precomputePalindromes(string& s, int n) {
+    pal.assign(n, vector<bool>(n, false));
+    for (int len = 1; len <= n; ++len) {
+        for (int i = 0; i + len - 1 < n; ++i) {
+            int j = i + len - 1;
+            if (s[i] == s[j]) {
+                if (len <= 2)
+                    pal[i][j] = true;
+                else
+                    pal[i][j] = pal[i + 1][j - 1];
+            }
         }
-        i++;
-        j--;
     }
-    return true;
 }
 // int solve(int i , int j , string &s){
 //     if(i>=j){
@@ -26,6 +43,7 @@ bool check(int i , int j , string&s){
 public:
     int minCut(string s) {
         // return solve(0,s.length()-1,s);
+        precomputePalindromes(s,s.length());
         vector<int> dp(s.length()+1,0);
 
         for(int i=s.length()-1 ; i>=0 ; i--){
@@ -33,7 +51,7 @@ public:
             for(int j=i ; j<s.length() ; j++){
                 
                 // for(int k=i ; k<j ; k++){
-                    if(check(i,j,s)){
+                    if(pal[i][j]){
                         ans = min(ans ,1+ dp[j+1]);
                     }
                     
