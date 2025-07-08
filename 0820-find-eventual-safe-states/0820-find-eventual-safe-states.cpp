@@ -3,7 +3,7 @@ private:
 bool dfs(int i , vector<vector<int>> &graph , vector<bool> &vis , vector<bool> &pathvis , vector<int> &ans){
     vis[i]=1;
     pathvis[i]=1;
-    ans[i]=0;
+    // ans[i]=0;
     for(auto it : graph[i]){
         if(!vis[it]){
             if(dfs(it,graph,vis,pathvis,ans)){
