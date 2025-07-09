@@ -13,7 +13,6 @@ public:
                         temp.push_back(nums1[k]);
                     }
                 }
-                // sort(temp.begin(),temp.end());
                 int diff = nums2[0]-temp[0];
                 bool check = 1;
                 for(int k=1 ; k<nums2.size() ; k++){
