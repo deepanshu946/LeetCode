@@ -737,6 +737,7 @@
 | [0474-ones-and-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/deepanshu946/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/deepanshu946/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0542-01-matrix) |
 | [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -895,6 +896,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/deepanshu946/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0525-contiguous-array](https://github.com/deepanshu946/LeetCode/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/deepanshu946/LeetCode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0567-permutation-in-string) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
@@ -1632,6 +1634,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/deepanshu946/LeetCode/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/deepanshu946/LeetCode/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
