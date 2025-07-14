@@ -662,6 +662,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/deepanshu946/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -816,6 +817,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepanshu946/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/deepanshu946/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
