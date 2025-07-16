@@ -608,6 +608,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2245-destroying-asteroids](https://github.com/deepanshu946/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/deepanshu946/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/deepanshu946/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -664,6 +665,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2245-destroying-asteroids](https://github.com/deepanshu946/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/deepanshu946/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -829,6 +831,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/deepanshu946/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2245-destroying-asteroids](https://github.com/deepanshu946/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
