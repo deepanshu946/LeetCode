@@ -620,6 +620,7 @@
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/deepanshu946/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Graph
 |  |
 | ------- |
@@ -681,6 +682,7 @@
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepanshu946/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/deepanshu946/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/deepanshu946/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
@@ -886,6 +888,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepanshu946/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepanshu946/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/deepanshu946/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
 ## Hash Table
