@@ -823,6 +823,7 @@
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/deepanshu946/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -1267,6 +1268,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/deepanshu946/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
