@@ -602,6 +602,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepanshu946/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/deepanshu946/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -793,6 +794,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/deepanshu946/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/deepanshu946/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1396-count-servers-that-communicate](https://github.com/deepanshu946/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1420,6 +1422,7 @@
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepanshu946/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
