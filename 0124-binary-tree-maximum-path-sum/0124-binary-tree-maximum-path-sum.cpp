@@ -17,7 +17,7 @@ int solve(TreeNode* root , int &ans){
     }
     int l = solve(root->left,ans);
     int r = solve(root->right,ans);
-    cout<<l<<" "<<r<<root->val<<endl;
+    // cout<<l<<" "<<r<<root->val<<endl;
     int temp = max(l+r+root->val,max(root->val,max(r+root->val,l+root->val))) ;
     ans = max(ans , temp);
     return max(l+root->val,max(root->val,r+root->val));
