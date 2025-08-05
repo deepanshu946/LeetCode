@@ -28,7 +28,7 @@ public:
     int findBottomLeftValue(TreeNode* root) {
         int ans = 0;
         int level = 0;
-        solve(root,ans,level);
+        // solve(root,ans,level);
         // return ans;
         queue<TreeNode*> q;
         q.push(root);
