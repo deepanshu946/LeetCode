@@ -1483,6 +1483,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/deepanshu946/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/deepanshu946/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -1752,6 +1753,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/deepanshu946/LeetCode/tree/master/0155-min-stack) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Reservoir Sampling
 |  |
