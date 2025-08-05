@@ -29,27 +29,27 @@ public:
         int ans = 0;
         int level = 0;
         solve(root,ans,level);
-        return ans;
-        // queue<TreeNode*> q;
-        // q.push(root);
-        // while(!q.empty()){
-        //     int size = q.size();
-        //     bool check = 0;
-        //     for(int i=0 ; i<size ; i++){
-        //         TreeNode* front = q.front();
-        //         q.pop();
-        //         if(!check){
-        //             check = 1;
-        //             ans = front->val;
-        //         }
-        //         if(front->left){
-        //             q.push(front->left);
-        //         }
-        //         if(front->right){
-        //             q.push(front->right);
-        //         }
-        //     }
-        // }
         // return ans;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            int size = q.size();
+            bool check = 0;
+            for(int i=0 ; i<size ; i++){
+                TreeNode* front = q.front();
+                q.pop();
+                if(!check){
+                    check = 1;
+                    ans = front->val;
+                }
+                if(front->left){
+                    q.push(front->left);
+                }
+                if(front->right){
+                    q.push(front->right);
+                }
+            }
+        }
+        return ans;
     }
 };
