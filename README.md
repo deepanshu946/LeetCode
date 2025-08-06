@@ -911,6 +911,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepanshu946/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/deepanshu946/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -1604,6 +1605,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/deepanshu946/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/deepanshu946/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/deepanshu946/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/deepanshu946/LeetCode/tree/master/0148-sort-list) |
 | [0382-linked-list-random-node](https://github.com/deepanshu946/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/deepanshu946/LeetCode/tree/master/0445-add-two-numbers-ii) |
