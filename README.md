@@ -911,6 +911,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepanshu946/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/deepanshu946/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/deepanshu946/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
@@ -1038,6 +1039,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/deepanshu946/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/deepanshu946/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepanshu946/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/deepanshu946/LeetCode/tree/master/0207-course-schedule) |
@@ -1163,6 +1165,7 @@
 | [0049-group-anagrams](https://github.com/deepanshu946/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/deepanshu946/LeetCode/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/deepanshu946/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/deepanshu946/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/deepanshu946/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
