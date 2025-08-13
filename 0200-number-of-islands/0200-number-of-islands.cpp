@@ -1,41 +1,44 @@
 class Solution {
 private:
-void solve(int i , int j , vector<vector<char>> &grid , vector<vector<int>> &vis, int m , int n ){
-    if(i>=m || j>=n || j<0 || i<0){
-        return ;
+void solve(int i , int j , vector<vector<char>> &grid , vector<vector<bool>> &vis, int n , int m){
+    if(i>=n || j>=m || i<0 || j<0){
+        return;
     }
-    if(grid[i][j]=='0'){
+    if(grid[i][j] == '0'){
+        return;
+    }
+    if(vis[i][j]==1){
         return;
     }
     vis[i][j]=1;
-    if(i+1<m && vis[i+1][j] == 0){
-        solve(i+1,j,grid,vis,m,n);
+    if(i+1<n && !vis[i+1][j]){
+        solve(i+1,j,grid,vis,n,m);
     }
-    if(j+1<n && vis[i][j+1] == 0){
-        solve(i,j+1,grid,vis,m,n);
+    if(j+1<m && !vis[i][j+1]){
+        solve(i,j+1,grid,vis,n,m);
     }
-    if(j-1>=0 && vis[i][j-1] == 0 ){
-        solve(i,j-1,grid,vis,m,n);
+    if(i-1>=0 && !vis[i-1][j]){
+        solve(i-1,j,grid,vis,n,m);
     }
-    if(i-1>=0 && vis[i-1][j] == 0){
-        solve(i-1,j,grid,vis,m,n);
+    if(j-1>=0 && !vis[i][j-1]){
+        solve(i,j-1,grid,vis,n,m);
     }
-    return ;
 }
 public:
     int numIslands(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
-        int ans=0;
-        vector<vector<int>> vis(m,vector<int>(n,0));
-        for(int i=0 ; i<m ; i++){
-            for(int j=0 ; j<n ; j++){
-                if(vis[i][j]==0 && grid[i][j]=='1'){
-                    solve(i,j,grid,vis, m , n);
-                    ans++;
+        int n = grid.size();
+        int m = grid[0].size();
+        int count = 0;
+        vector<vector<bool>> vis(n,vector<bool>(m,0));
+        for(int i=0 ; i<n ; i++){
+            for(int j=0 ; j<m ; j++){
+                if(!vis[i][j] && grid[i][j]=='1'){
+                    solve(i,j,grid,vis,n,m);
+                    count++;
                 }
             }
         }
-        return ans;
+        return count;
+
     }
 };
