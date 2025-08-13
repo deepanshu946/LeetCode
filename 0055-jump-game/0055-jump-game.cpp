@@ -1,21 +1,21 @@
 class Solution {
-private:
-bool solve(int i , vector<int> &nums){
-    if(i==nums.size()-1){
-        return 1;
-    }
-    if(i>=nums.size()){
-        return 0;
-    }
+// private:
+// bool solve(int i , vector<int> &nums){
+//     if(i==nums.size()-1){
+//         return 1;
+//     }
+//     if(i>=nums.size()){
+//         return 0;
+//     }
 
-    bool ans = 0;
-    for(int jump=1 ; jump<=nums[i] ; jump++){
-        ans = ans | solve(i+jump , nums);
-    }
-    return ans;
+//     bool ans = 0;
+//     for(int jump=1 ; jump<=nums[i] ; jump++){
+//         ans = ans | solve(i+jump , nums);
+//     }
+//     return ans;
 
 
-}
+// }
 public:
     bool canJump(vector<int>& nums) {
         vector<int> dp(nums.size() , 0);
