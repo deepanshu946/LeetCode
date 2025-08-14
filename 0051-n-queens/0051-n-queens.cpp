@@ -1,66 +1,74 @@
-// #include<string>
-
 class Solution {
 private:
-    bool issafe(int row, int col, vector<string> &board, int n) {
-        // for row
-        int x = row;
-        int y = col;
-        while (y >= 0) {
-            if (board[x][y] == 'Q') {
-                return false;
-                
-            }
-            y--;
+bool canplace(int row , int col , vector<string> &temp , int n){
+    for(int i=row+1 ; i<n ; i++){
+        if(temp[i][col]=='Q'){
+            return false;
         }
-        // for upper diagonal
-        x = row;
-        y = col;
-        while (x >= 0 && y >= 0) {
-            if (board[x][y] == 'Q') {
-                return false;
-            }
-            x--;
-            y--;
-        }
-        // for lower diagonal
-        x = row;
-        y = col;
-        while (x < n && y >= 0) {
-            if (board[x][y] == 'Q') {
-                return false;
-            }
-            x++;
-            y--;
-        }
-        return true;
-    }
-    void solve(int col, vector<vector<string>> &ans, vector<string> &board,
-               int n) {
-        // base case;
-        if (col == n) {
-            //push all the possible board in ans
-            ans.push_back(board);
-            return;
-        }
-        // just check for 1st column & rest will be done by recursion
-        for (int row = 0; row < n; row++) {
-            if (issafe(row, col, board, n)) {
-                //insert queen
-                board[row][col] = 'Q';
-                solve(col + 1, ans, board, n);
-                //backtracked and remove the queen
-                board[row][col] = '.';
-            }
-        }
-    }
 
+    }
+    for(int i=row-1 ; i>=0 ; i--){
+        if(temp[i][col]=='Q'){
+            return false;
+        }
+    }
+    for(int i=col+1 ; i<n ; i++){
+        if(temp[row][i] == 'Q'){
+            return false;
+        }
+    }
+    for(int i=col-1 ; i>=0 ; i--){
+        if(temp[row][i] == 'Q'){
+            return false;
+        }
+    }
+    for(int i=row+1, j=col+1 ; i<n && j<n ; i++,j++){
+        if(temp[i][j]=='Q'){
+            return false;
+        }
+    }
+    for(int i=row-1, j=col+1 ; i>=0 && j<n ; i--,j++){
+        if(temp[i][j]=='Q'){
+            return false;
+        }
+    }
+    for(int i=row+1, j=col-1 ; i<n && j>=0 ; i++,j--){
+        if(temp[i][j]=='Q'){
+            return false;
+        }
+    }
+    for(int i=row-1, j=col-1 ; i>=0 && j>=0 ; i--,j--){
+        if(temp[i][j]=='Q'){
+            return false;
+        }
+    }
+    return true;
+
+}
+void solve(int row , int n , vector<string> &temp, vector<vector<string>> &ans){
+    if(row==n){
+        ans.push_back(temp);
+        return;
+    }
+    for(int i=0 ; i<n ; i++){
+        if(canplace(row,i,temp,n)){
+            temp[row][i]='Q';
+            solve(row+1,n,temp,ans);
+            temp[row][i]='.';
+        }
+    }
+}
 public:
     vector<vector<string>> solveNQueens(int n) {
-        //initialize board with '.' 
-        vector<string> board(n, string(n, '.'));
         vector<vector<string>> ans;
-        solve(0, ans, board, n);
+        vector<string> temp(n,"");
+        for(int i=0 ; i<n ; i++){
+            for(int j=0 ; j<n ; j++){
+                temp[i].push_back('.');
+            }
+        }
+
+        solve(0,n,temp,ans);
         return ans;
     }
 };
