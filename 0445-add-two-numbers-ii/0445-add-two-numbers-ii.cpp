@@ -10,66 +10,107 @@
  */
 class Solution {
 private:
-int getlength(ListNode* head){
-    ListNode* temp = head;
-    int count=0;
-    while(temp != NULL){
-        count++;
-        temp = temp->next;
-    }
-    return count;
-}
-int solve(ListNode* l1 , ListNode* l2 , vector<int> &ans){
-    if(l1==NULL && l2==NULL){
-        return 0;
-    }
-    int carry = solve(l1->next , l2->next ,ans);
-    int temp = l1->val + l2->val + carry;
-    int c=temp/10;
-    temp = temp%10;
-    ans.push_back(temp);
-    return c;
+ListNode* reverse(ListNode* head){
+    ListNode* curr = head;
+    ListNode* next = curr->next;
+    ListNode* prev = NULL;
+    while(curr != NULL){
+        curr->next = prev;
+        prev = curr;
+        curr = next;
+        if(next != NULL)
+            next = next->next;
 
+    }
+    return prev;
 }
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        int len1 = getlength(l1);
-        int len2 = getlength(l2);
-        cout<<len1<<" "<<len2<<endl;
-        int diff = abs(len1-len2);
-        if(diff != 0){
-            ListNode* newhead = new ListNode();
-            ListNode* ptr = newhead;
-            diff--;
-            while(diff != 0){
-                ListNode* temp = new ListNode();
-                newhead->next = temp;
-                newhead=newhead->next;
-                diff--;
-            }
-            if(len1<len2){
-                newhead->next = l1;
-                l1=ptr;
+        stack<int> s1;
+        stack<int> s2;
+        ListNode* temp = l1;
+        while(temp != NULL){
+            s1.push(temp->val);
+            temp = temp->next;
+        }
+        temp = l2;
+        while(temp != NULL){
+            s2.push(temp->val);
+            temp = temp->next;
+        }
+        int rem = 0;
+        // ListNode* curr = NULL;
+        // ListNode* next = NULL;
+        ListNode* newhead = new ListNode(-1);
+        temp = newhead;
+        while(!s1.empty() && !s2.empty()){
+            int t1 = s1.top();
+            s1.pop();
+            int t2 = s2.top();
+            s2.pop();
+            int sum = t1+t2+rem;
+            rem = sum/10;
+            sum = sum % 10;
+            // ListNode* temp = new ListNode*(sum);
+            // temp->next = next;
+            // next = temp;
+            if(temp->val == -1){
+                temp->val = sum;
             }
             else{
-                newhead->next = l2;
-                l2=ptr;
+                ListNode* temp2 = new ListNode(sum);
+                temp->next = temp2;
+                temp = temp->next;
             }
         }
-        vector<int> ans;
-        int carry = solve(l1,l2,ans);
-        if(carry != 0){
-            ans.push_back(carry);
+        while(!s1.empty()){
+            int t1 = s1.top();
+            s1.pop();
+            // int t2 = s2.top();
+            // s2.pop();
+            int sum = t1+rem;
+            rem = sum/10;
+            sum = sum % 10;
+            // ListNode* temp = new ListNode*(sum);
+            // temp->next = next;
+            // next = temp;
+            if(temp->val == -1){
+                temp->val = sum;
+            }
+            else{
+                ListNode* temp2 = new ListNode(sum);
+                temp->next = temp2;
+                temp = temp->next;
+            }
+        }
+        while(!s2.empty()){
+            // int t1 = s1.top();
+            // s1.pop();
+            int t2 = s2.top();
+            s2.pop();
+            int sum = t2+rem;
+            rem = sum/10;
+            sum = sum % 10;
+            // ListNode* temp = new ListNode*(sum);
+            // temp->next = next;
+            // next = temp;
+            if(temp->val == -1){
+                temp->val = sum;
+            }
+            else{
+                ListNode* temp2 = new ListNode(sum);
+                temp->next = temp2;
+                temp = temp->next;
+            }
+        }
+        if(rem != 0){
+             ListNode* temp2 = new ListNode(rem);
+                temp->next = temp2;
+                temp = temp->next;
+        }
+       return reverse(newhead);
+        // return newhead;
 
-        }
-        reverse(ans.begin(),ans.end());
-        ListNode* tem = new ListNode(ans[0]);
-        ListNode* an = tem;
-        for(int i=1 ; i<ans.size() ; i++){
-            ListNode* next = new ListNode(ans[i]);
-            tem->next = next;
-            tem=tem->next;
-        }
-        return an;
+        
     }
 };
