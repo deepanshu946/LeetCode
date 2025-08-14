@@ -1335,6 +1335,7 @@
 | [0069-sqrtx](https://github.com/deepanshu946/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/deepanshu946/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/deepanshu946/LeetCode/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/deepanshu946/LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/deepanshu946/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -1543,6 +1544,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/deepanshu946/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1310-watering-plants](https://github.com/deepanshu946/LeetCode/tree/master/1310-watering-plants) |
@@ -1765,6 +1767,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Probability and Statistics
 |  |
