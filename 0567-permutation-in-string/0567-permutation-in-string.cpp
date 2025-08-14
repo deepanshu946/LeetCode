@@ -1,34 +1,46 @@
 class Solution {
-public:
-    bool checkInclusion(string s1, string s2) {
-        if(s1.length()>s2.length()){
+private:
+bool check(vector<int> &t1 , vector<int> &t2){
+    for(int i=0 ; i<26 ; i++){
+        if(t1[i] != t2[i]){
             return false;
         }
-        vector<int> m(26,0);
-        vector<int> temp(26,0);
+    }
+    return true;
+}
+public:
+    bool checkInclusion(string s1, string s2) {
+     vector<int> temp1(26,0);
+     if(s2.length()< s1.length()){
+        return false;
+     }
+     for(int i=0 ; i<s1.length() ; i++){
+        temp1[s1[i]-'a']++;
+     }
+        vector<int> temp2(26,0);
         for(int i=0 ; i<s1.length() ; i++){
-            int val = s1[i]-97;
-            m[val]++;
-            int val2 = s2[i]-97;
-            temp[val2]++;
+            temp2[s2[i]-'a']++;
         }
-        int left=0;
-        int right=s1.length()-1;
+        int right = s1.length();
+        int left = 0;
         while(right<s2.length()){
-            if(temp==m){
+            if(check(temp1,temp2)){
                 return true;
             }
-            int val = s2[left]-97;
-            temp[val]--;
-            left++;
+            temp2[s2[right]-'a']++;
+            temp2[s2[left]-'a']--;
             right++;
-            if(right==s2.length()){
-                break;
-            }
-            val = s2[right]-97;
-            temp[val]++;
+            left++;
+
+
+        }
+        if(check(temp1,temp2)){
+            return true;
         }
         return false;
+
+
+
 
     }
 };
