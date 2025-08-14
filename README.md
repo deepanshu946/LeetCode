@@ -863,6 +863,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/deepanshu946/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
+| [2504-find-all-good-indices](https://github.com/deepanshu946/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepanshu946/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepanshu946/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1318,6 +1319,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2504-find-all-good-indices](https://github.com/deepanshu946/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/deepanshu946/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2569-number-of-beautiful-partitions](https://github.com/deepanshu946/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2648-number-of-ways-to-earn-points](https://github.com/deepanshu946/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
@@ -1730,6 +1732,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/deepanshu946/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepanshu946/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2504-find-all-good-indices](https://github.com/deepanshu946/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
