@@ -718,6 +718,7 @@
 | [0001-two-sum](https://github.com/deepanshu946/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/deepanshu946/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/deepanshu946/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/deepanshu946/LeetCode/tree/master/0046-permutations) |
@@ -1387,6 +1388,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepanshu946/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/deepanshu946/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/deepanshu946/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/deepanshu946/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deepanshu946/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
