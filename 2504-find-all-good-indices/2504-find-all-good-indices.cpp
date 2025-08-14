@@ -9,7 +9,6 @@ public:
             } else {
                 pre[i] = pre[i - 1];
             }
-            cout << pre[i] << " ";
         }
         vector<int> suff(n, 0);
         for (int i = n-2; i>=0; i--) {
@@ -18,7 +17,6 @@ public:
             } else {
                 suff[i] = suff[i +1];
             }
-            cout << suff[i] << " ";
         }
         vector<int> ans;
         for(int i=k ; i<n-k ; i++){
