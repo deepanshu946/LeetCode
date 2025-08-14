@@ -1,50 +1,48 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& interval, vector<int>& newi) {
+    vector<vector<int>> insert(vector<vector<int>>& nums1, vector<int>& nums2) {
         vector<vector<int>> ans;
-        if(interval.size()==0){
-            ans.push_back(newi);
-            return ans;
-        }
-        bool pushed=0;
-        if(newi[1]<interval[0][0]){
-            ans.push_back(newi);
-            pushed=1;
-        }
-        for(int i=0 ; i<interval.size() ; i++){
-            if(pushed){
-                //merge
-                if(interval[i][0]<=ans.back()[1]){
-                    ans.back()[1]=max(ans.back()[1],interval[i][1]);
-                }
-                else{
-                    ans.push_back(interval[i]);
-                }
+        int i=0;
+        int j=0;
+        int n = nums1.size();
+        int m = nums2.size();
+        while(i<n && j==0){
+            if(nums2[1] < nums1[i][0]){
+                ans.push_back(nums2);
+                j++;
+            }
+            else if(nums2[0] <= nums1[i][1]){
+                ans.push_back({min(nums2[0],nums1[i][0]) , max(nums2[1],nums1[i][1])});
+                i++;
+                j++;
             }
             else{
-                ans.push_back(interval[i]);
-                if(newi[1]<ans.back()[0]){
-                    ans.pop_back();
-                    ans.push_back(newi);
-                    ans.push_back(interval[i]);
-                    pushed=1;
-
-                }
-                //check if newi is present in back
-                else if(newi[0]<=ans.back()[1]){
-                    ans.back()[1]=max(ans.back()[1],newi[1]);
-                    ans.back()[0]=min(ans.back()[0],newi[0]);
-                    pushed=1;
-                }
-                // if(newi[1]<=ans.back()[1]){
-                //     ans.back()[0]=min(ans.back()[0],newi[0]);
-                //     pushed=1;
-                // }
+                ans.push_back(nums1[i]);
+                i++;
             }
         }
-        if(!pushed){
-            ans.push_back(newi);
+        while(i<n){
+            ans.push_back(nums1[i]);
+            i++;
         }
-        return ans;
+        if(j==0){
+            ans.push_back(nums2);
+        }
+        vector<vector<int>> ans2;
+        ans2.push_back(ans[0]);
+        for(int i=1 ; i<ans.size() ; i++){
+            vector<int> b = ans2.back();
+            ans2.pop_back();
+            if(ans[i][0] <= b[1]){
+                ans2.push_back({min(ans[i][0],b[0]),max(ans[i][1],b[1])});
+            }
+            else{
+                ans2.push_back(b);
+                ans2.push_back(ans[i]);
+            }
+
+        }
+        return ans2;
+
     }
 };
