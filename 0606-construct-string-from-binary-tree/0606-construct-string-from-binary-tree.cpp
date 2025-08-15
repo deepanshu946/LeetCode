@@ -11,32 +11,35 @@
  */
 class Solution {
 private:
-void solve(TreeNode* root , string &s){
+void solve(TreeNode* root , string &ans){
     if(root==NULL){
         return;
     }
-    s=s+to_string(root->val);
-    if(root->right == NULL && root->left != NULL){
-        s.push_back('(');
-        solve(root->left , s);
-        s.push_back(')');
+    if(root->left==NULL && root->right==NULL){
+            ans = ans + (to_string(root->val));
 
+        return;
+    }
+    ans = ans + (to_string(root->val));
+    ans = ans + "(";
+    solve(root->left,ans);
+    ans = ans + ")";
+    if(root->right != NULL){
+ans = ans + "(";
 
-    }
-    else if(root->left != NULL || root->right != NULL){
-        s.push_back('(');
-        solve(root->left , s);
-        s.push_back(')');
-        s.push_back('(');
-        solve(root->right , s);
-        s.push_back(')');
-    }
-    return;
+    solve(root->right,ans);
     
+    ans = ans + ")";
+    }
+    
+    
+
+
+
 }
 public:
     string tree2str(TreeNode* root) {
-        string ans ;
+        string ans = "";
         solve(root,ans);
         return ans;
     }
