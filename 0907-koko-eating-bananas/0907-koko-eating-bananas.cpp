@@ -1,41 +1,30 @@
-
 class Solution {
-private:
-bool check(long long mid , int h , vector<int> &piles){
-    long long temp = 0;
-    for(int i=0 ; i<piles.size() ; i++){
-        temp = temp + (piles[i]/mid);
-        if(piles[i]%mid != 0){
-            temp++;
-        }
-    }
-    if(temp<=h){
-        return true;
-    }
-    return 0;
-}
-int solve(long long lower , long long upper , vector<int> &piles , int h){
-    long long ans = 0;
-    while(lower<=upper){
-        long long mid = (lower+upper)/2;
-        if(check(mid,h,piles)){
-            ans = mid;
-            upper=mid-1;
-        }
-        else{
-            lower=mid+1;
-        }
-    }   
-    return ans; 
-}
 public:
-    int minEatingSpeed(vector<int>& piles, int h) {
-        long long upper = INT_MIN;
-        for(int i=0 ; i<piles.size() ; i++){
-            if(piles[i]>upper){
-                upper=piles[i];
+    int minEatingSpeed(vector<int>& nums, int h) {
+        int maxx = INT_MIN;
+        for(int i=0 ; i<nums.size() ; i++){
+            maxx = max(nums[i],maxx);
+        }
+        int start = 1;
+        int end = maxx;
+        int store = 0;
+        while(start<=end){
+            int mid= (start+end)/2;
+            long long temp = 0;
+            for(int i=0 ; i<nums.size() ; i++){
+                temp = temp+ (nums[i]/mid);
+                if(nums[i]%mid != 0){
+                    temp++;
+                }
+            }
+            if(temp>h){
+                start = mid+1;
+            }
+            else{
+                // store = mid;
+                end = mid-1;
             }
         }
-        return solve(1,upper,piles,h);
+        return start;
     }
 };
