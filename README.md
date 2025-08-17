@@ -929,6 +929,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/deepanshu946/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/deepanshu946/LeetCode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0398-random-pick-index](https://github.com/deepanshu946/LeetCode/tree/master/0398-random-pick-index) |
@@ -1649,6 +1650,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/deepanshu946/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/deepanshu946/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/deepanshu946/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/deepanshu946/LeetCode/tree/master/0148-sort-list) |
 | [0382-linked-list-random-node](https://github.com/deepanshu946/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/deepanshu946/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -1806,6 +1808,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/deepanshu946/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/deepanshu946/LeetCode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/deepanshu946/LeetCode/tree/master/0937-online-stock-span) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1832,4 +1835,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/deepanshu946/LeetCode/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/deepanshu946/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
