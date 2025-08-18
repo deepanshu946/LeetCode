@@ -655,6 +655,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/deepanshu946/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/deepanshu946/LeetCode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/deepanshu946/LeetCode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -700,6 +701,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/deepanshu946/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/deepanshu946/LeetCode/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -768,6 +770,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/deepanshu946/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/deepanshu946/LeetCode/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1422,6 +1425,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/deepanshu946/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/deepanshu946/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/deepanshu946/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -1452,6 +1456,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/deepanshu946/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/deepanshu946/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1609,6 +1614,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu946/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/deepanshu946/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
