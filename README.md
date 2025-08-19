@@ -1551,6 +1551,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepanshu946/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/deepanshu946/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/deepanshu946/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/deepanshu946/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -1815,6 +1816,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/deepanshu946/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Game Theory
@@ -1839,6 +1841,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/deepanshu946/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/deepanshu946/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/deepanshu946/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/deepanshu946/LeetCode/tree/master/0937-online-stock-span) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Reservoir Sampling
