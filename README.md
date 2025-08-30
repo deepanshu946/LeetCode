@@ -604,6 +604,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepanshu946/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/deepanshu946/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/deepanshu946/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -823,6 +824,7 @@
 | [1310-watering-plants](https://github.com/deepanshu946/LeetCode/tree/master/1310-watering-plants) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1333-sort-the-jumbled-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/deepanshu946/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/deepanshu946/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
