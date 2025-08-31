@@ -875,6 +875,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/deepanshu946/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2228-watering-plants-ii](https://github.com/deepanshu946/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepanshu946/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/deepanshu946/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -1367,6 +1368,7 @@
 | [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/deepanshu946/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepanshu946/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -1411,6 +1413,7 @@
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepanshu946/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2383-add-two-integers](https://github.com/deepanshu946/LeetCode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
