@@ -1,13 +1,7 @@
 class Solution {
 public:
-    class compare{
-        public:
-        bool operator()(pair<int,int> &p1 , pair<int,int> &p2){
-        return p1.first < p2.first; 
-        }
-    };
     string longestDiverseString(int a, int b, int c) {
-        priority_queue<pair<int,int> ,vector<pair<int,int>> ,  compare> pq;
+        priority_queue<pair<int,int>> pq;
         pq.push({a,'a'});
         pq.push({b,'b'});
         pq.push({c,'c'});
