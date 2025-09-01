@@ -52,9 +52,6 @@ public:
         if(negcount%2==0){
             ans = max(ans , totalcount);
         }
-        else if(end-start == 1 && totalcount==1 && negcount==1){
-                    // continue;
-                }
         else{
             ans = max(ans , max(end-firstneg,lastneg-start));
         }
