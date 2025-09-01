@@ -1002,6 +1002,7 @@
 | [2107-find-unique-binary-string](https://github.com/deepanshu946/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/deepanshu946/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -1289,6 +1290,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/deepanshu946/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2401-count-asterisks](https://github.com/deepanshu946/LeetCode/tree/master/2401-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -1776,6 +1778,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/deepanshu946/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/deepanshu946/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshu946/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
