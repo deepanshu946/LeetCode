@@ -610,6 +610,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/deepanshu946/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/deepanshu946/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -849,6 +850,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepanshu946/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/deepanshu946/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/deepanshu946/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1753-path-with-minimum-effort](https://github.com/deepanshu946/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepanshu946/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -1369,6 +1371,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/deepanshu946/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/deepanshu946/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/deepanshu946/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
