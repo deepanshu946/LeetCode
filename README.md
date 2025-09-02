@@ -701,6 +701,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepanshu946/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/deepanshu946/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/deepanshu946/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -944,6 +945,7 @@
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -1683,6 +1685,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/deepanshu946/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/deepanshu946/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Backtracking
 |  |
 | ------- |
