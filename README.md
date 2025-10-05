@@ -871,6 +871,7 @@
 | [1876-map-of-highest-peak](https://github.com/deepanshu946/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepanshu946/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/deepanshu946/LeetCode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -1494,6 +1495,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/deepanshu946/LeetCode/tree/master/1972-rotating-the-box) |
 | [2228-watering-plants-ii](https://github.com/deepanshu946/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1578,6 +1580,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/deepanshu946/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/deepanshu946/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1972-rotating-the-box](https://github.com/deepanshu946/LeetCode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/deepanshu946/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/deepanshu946/LeetCode/tree/master/2089-maximum-matrix-sum) |
