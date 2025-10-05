@@ -933,6 +933,7 @@
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepanshu946/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/deepanshu946/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/deepanshu946/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1039,6 +1040,7 @@
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepanshu946/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepanshu946/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1809,6 +1811,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshu946/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepanshu946/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepanshu946/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/deepanshu946/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
