@@ -961,6 +961,7 @@
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
 | [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1058,6 +1059,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepanshu946/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1772,6 +1774,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
+| [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Geometry
 |  |
 | ------- |
@@ -1865,6 +1868,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -1948,4 +1952,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/deepanshu946/LeetCode/tree/master/1028-interval-list-intersections) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
