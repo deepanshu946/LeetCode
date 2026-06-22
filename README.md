@@ -923,6 +923,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepanshu946/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/deepanshu946/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/deepanshu946/LeetCode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
@@ -1411,6 +1412,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/deepanshu946/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2569-number-of-beautiful-partitions](https://github.com/deepanshu946/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
 | [2648-number-of-ways-to-earn-points](https://github.com/deepanshu946/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -1459,6 +1461,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepanshu946/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/deepanshu946/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/deepanshu946/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
