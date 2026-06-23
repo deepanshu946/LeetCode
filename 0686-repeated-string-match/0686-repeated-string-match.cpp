@@ -4,7 +4,7 @@ public:
         string temp = a;
         int count = 1;
         while(a.length() < b.length()){
-            a = a + temp;
+            a.append(temp) ;
             count++;
         } 
         if(a.contains(b)){
