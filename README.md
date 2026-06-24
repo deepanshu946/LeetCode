@@ -589,6 +589,7 @@
 | [0135-candy](https://github.com/deepanshu946/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/deepanshu946/LeetCode/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/deepanshu946/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/deepanshu946/LeetCode/tree/master/0455-assign-cookies) |
@@ -1372,6 +1373,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/deepanshu946/LeetCode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/deepanshu946/LeetCode/tree/master/0343-integer-break) |
+| [0397-integer-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshu946/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/deepanshu946/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -1569,6 +1571,7 @@
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0397-integer-replacement) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
@@ -1850,6 +1853,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/deepanshu946/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0397-integer-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/deepanshu946/LeetCode/tree/master/0645-set-mismatch) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/deepanshu946/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
