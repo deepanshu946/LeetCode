@@ -8,7 +8,7 @@ public:
         for(int i=start ; i>=0 ; i--){
             int firstch = (i*2) + 1;
             int secondch = (i*2) + 2;
-            cout<<firstch<<" "<<secondch<<endl;
+            // cout<<firstch<<" "<<secondch<<endl;
             int left = 0;
             int right = 0;
             if(m[firstch] == -1){
@@ -20,7 +20,7 @@ public:
                 right = cost[secondch]+m[secondch];
             }
             ans = ans + abs(left-right);
-            cout<<max(left,right)<<endl;
+            // cout<<max(left,right)<<endl;
             m[i]=max(left,right);
         }
         return ans;
