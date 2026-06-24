@@ -10,12 +10,12 @@ public:
                 }
                 
             }
-            if(count==0 && sentences[i].length() > 0){
-                count = 1;
-            }
-            else{
+            // if(count==0 && sentences[i].length() > 0){
+            //     count = 1;
+            // }
+            // else{
                 count += 1;
-            }
+            // }
             ans = max(ans , count);
         }
         return ans;
