@@ -1,4 +1,4 @@
-#define mod 1000000007
+// #define mod 1000000007
 class Solution {
 public:
     long long subArrayRanges(vector<int>& arr) {
