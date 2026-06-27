@@ -41,7 +41,7 @@ public:
         //     cout<<pse[i]<<" ";
             
         // }
-        long long ans = 0;
+        int ans = 0;
         for(int i=0 ; i<arr.size() ; i++){
             long long left = i - pse[i];
             long long right = nse[i] - i;
