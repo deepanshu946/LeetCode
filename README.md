@@ -627,6 +627,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepanshu946/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/deepanshu946/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/deepanshu946/LeetCode/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
@@ -944,6 +945,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/deepanshu946/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -1064,6 +1066,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/deepanshu946/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1865,6 +1868,7 @@
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/deepanshu946/LeetCode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshu946/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/deepanshu946/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
