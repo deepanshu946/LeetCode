@@ -694,6 +694,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/deepanshu946/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2245-destroying-asteroids](https://github.com/deepanshu946/LeetCode/tree/master/2245-destroying-asteroids) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/deepanshu946/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -733,6 +734,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/deepanshu946/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/deepanshu946/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/deepanshu946/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2379-maximum-total-importance-of-roads](https://github.com/deepanshu946/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -915,6 +917,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/deepanshu946/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/deepanshu946/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/deepanshu946/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepanshu946/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/deepanshu946/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -1486,6 +1489,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepanshu946/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2383-add-two-integers](https://github.com/deepanshu946/LeetCode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1960,6 +1964,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
