@@ -842,6 +842,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/deepanshu946/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1222-queens-that-can-attack-the-king](https://github.com/deepanshu946/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
@@ -1622,6 +1623,7 @@
 | [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/deepanshu946/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1222-queens-that-can-attack-the-king](https://github.com/deepanshu946/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
@@ -1712,6 +1714,7 @@
 | [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1222-queens-that-can-attack-the-king](https://github.com/deepanshu946/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1310-watering-plants](https://github.com/deepanshu946/LeetCode/tree/master/1310-watering-plants) |
 | [1449-print-words-vertically](https://github.com/deepanshu946/LeetCode/tree/master/1449-print-words-vertically) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepanshu946/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
