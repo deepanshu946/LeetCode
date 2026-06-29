@@ -958,6 +958,7 @@
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3114-beautiful-towers-i](https://github.com/deepanshu946/LeetCode/tree/master/3114-beautiful-towers-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/deepanshu946/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/deepanshu946/LeetCode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -1768,6 +1769,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepanshu946/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1902,6 +1904,7 @@
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/deepanshu946/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Combinatorics
