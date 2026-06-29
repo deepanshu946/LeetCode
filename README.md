@@ -948,6 +948,7 @@
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/deepanshu946/LeetCode/tree/master/2751-sliding-subarray-beauty) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepanshu946/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/deepanshu946/LeetCode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
@@ -1449,6 +1450,7 @@
 | [2648-number-of-ways-to-earn-points](https://github.com/deepanshu946/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepanshu946/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
