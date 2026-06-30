@@ -1503,6 +1503,7 @@
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3100-water-bottles-ii](https://github.com/deepanshu946/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/deepanshu946/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -1736,6 +1737,7 @@
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/deepanshu946/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
+| [3100-water-bottles-ii](https://github.com/deepanshu946/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepanshu946/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/deepanshu946/LeetCode/tree/master/3447-clear-digits) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/deepanshu946/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
