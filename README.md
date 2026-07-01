@@ -967,6 +967,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepanshu946/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
+| [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/deepanshu946/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
@@ -1565,6 +1566,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepanshu946/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Binary Search
@@ -1599,6 +1601,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -1939,6 +1942,7 @@
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
+| [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Bitmask
