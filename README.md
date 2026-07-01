@@ -1420,6 +1420,7 @@
 | [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
 | [0907-sum-of-subarray-minimums](https://github.com/deepanshu946/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0911-profitable-schemes](https://github.com/deepanshu946/LeetCode/tree/master/0911-profitable-schemes) |
+| [0935-knight-dialer](https://github.com/deepanshu946/LeetCode/tree/master/0935-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/deepanshu946/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/deepanshu946/LeetCode/tree/master/1129-longest-string-chain) |
