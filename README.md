@@ -915,6 +915,7 @@
 | [2245-destroying-asteroids](https://github.com/deepanshu946/LeetCode/tree/master/2245-destroying-asteroids) |
 | [2262-solving-questions-with-brainpower](https://github.com/deepanshu946/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/deepanshu946/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/deepanshu946/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/deepanshu946/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
@@ -1601,6 +1602,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/deepanshu946/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2164-two-best-non-overlapping-events](https://github.com/deepanshu946/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshu946/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1777,6 +1779,7 @@
 | [1813-maximum-erasure-value](https://github.com/deepanshu946/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/deepanshu946/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/deepanshu946/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepanshu946/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/deepanshu946/LeetCode/tree/master/2751-sliding-subarray-beauty) |
@@ -1942,6 +1945,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/deepanshu946/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepanshu946/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/deepanshu946/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2504-find-all-good-indices](https://github.com/deepanshu946/LeetCode/tree/master/2504-find-all-good-indices) |
