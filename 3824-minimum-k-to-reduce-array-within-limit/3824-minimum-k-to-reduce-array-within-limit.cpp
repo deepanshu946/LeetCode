@@ -19,7 +19,8 @@ bool checknums(vector<int> &nums , long long k){
 }
 int solve(int start , int end , vector<int> &nums){
     int s = start;
-    int e = 1e5;
+    int n = nums.size();
+    int e = max(end,n+1);
     int ans = 0;
     while(s<=e){
         long long mid = (s+e)/2;
