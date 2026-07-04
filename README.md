@@ -1001,6 +1001,7 @@
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/deepanshu946/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
 | [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
@@ -1618,6 +1619,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/deepanshu946/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 ## Memoization
 |  |
 | ------- |
