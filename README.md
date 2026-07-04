@@ -994,6 +994,7 @@
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshu946/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepanshu946/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepanshu946/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -1767,6 +1768,7 @@
 | [3447-clear-digits](https://github.com/deepanshu946/LeetCode/tree/master/3447-clear-digits) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/deepanshu946/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3634-find-mirror-score-of-a-string](https://github.com/deepanshu946/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1866,6 +1868,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Geometry
@@ -1973,6 +1976,7 @@
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Bitmask
 |  |
