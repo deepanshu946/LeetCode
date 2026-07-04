@@ -995,6 +995,7 @@
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshu946/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/deepanshu946/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/deepanshu946/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepanshu946/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -1869,6 +1870,7 @@
 | [0948-sort-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0948-sort-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/deepanshu946/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Geometry
@@ -1977,6 +1979,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/deepanshu946/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Bitmask
 |  |
