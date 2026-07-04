@@ -38,11 +38,11 @@ int solve(int start , int end , vector<int> &nums){
 }
 public:
     int minimumK(vector<int>& nums) {
-        int maxi = 0;
-        for(int i=0 ; i<nums.size(); i++){
-            maxi = max(maxi,nums[i]);
-        }
-        return solve(0,maxi,nums);
+        // int maxi = 0;
+        // for(int i=0 ; i<nums.size(); i++){
+        //     maxi = max(maxi,nums[i]);
+        // }
+        return solve(0,1e5,nums);
 
     }
 };
