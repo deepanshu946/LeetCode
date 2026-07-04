@@ -20,7 +20,7 @@ public:
     }
     int xorAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size();
-        int block = (sqrt(n))+1;
+        int block = (sqrt(n));
         unordered_map<int,vector<vector<int>> > m;
         for(int i=0 ;i<queries.size() ; i++){
             int k= queries[i][2];
