@@ -2,7 +2,7 @@ class MyCalendarTwo {
 public:
     map<int,int> m;
     MyCalendarTwo() {
-        
+       
     }
     
     bool book(int startTime, int endTime) {
