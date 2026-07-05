@@ -809,6 +809,7 @@
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/deepanshu946/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
@@ -1604,6 +1605,7 @@
 | [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0729-my-calendar-i](https://github.com/deepanshu946/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -2045,6 +2047,7 @@
 | [0146-lru-cache](https://github.com/deepanshu946/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/deepanshu946/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/deepanshu946/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0729-my-calendar-i](https://github.com/deepanshu946/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0937-online-stock-span](https://github.com/deepanshu946/LeetCode/tree/master/0937-online-stock-span) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -2084,6 +2087,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/deepanshu946/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## String Matching
@@ -2102,5 +2106,6 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/deepanshu946/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
