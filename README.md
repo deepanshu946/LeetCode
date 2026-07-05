@@ -894,6 +894,7 @@
 | [1830-count-good-meals](https://github.com/deepanshu946/LeetCode/tree/master/1830-count-good-meals) |
 | [1833-find-the-highest-altitude](https://github.com/deepanshu946/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshu946/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1854-maximum-population-year](https://github.com/deepanshu946/LeetCode/tree/master/1854-maximum-population-year) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/deepanshu946/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1876-map-of-highest-peak](https://github.com/deepanshu946/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepanshu946/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1915,6 +1916,7 @@
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/deepanshu946/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1483-rank-teams-by-votes](https://github.com/deepanshu946/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepanshu946/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1854-maximum-population-year](https://github.com/deepanshu946/LeetCode/tree/master/1854-maximum-population-year) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/deepanshu946/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1965,6 +1967,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepanshu946/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/deepanshu946/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/deepanshu946/LeetCode/tree/master/1854-maximum-population-year) |
 | [1872-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/deepanshu946/LeetCode/tree/master/1872-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/deepanshu946/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
