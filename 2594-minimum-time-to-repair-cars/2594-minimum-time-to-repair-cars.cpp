@@ -21,7 +21,7 @@ public:
         long long start = 0;
         long long ans = -1;
 
-        long long end =1LL* maxi*(1LL* cars*cars);
+        long long end = maxi*(1LL* cars*cars);
         while(start<=end){
             long long mid = (start+end)/2;
             if(ispossible(mid,ranks,cars)){
