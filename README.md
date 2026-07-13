@@ -917,6 +917,7 @@
 | [1943-describe-the-painting](https://github.com/deepanshu946/LeetCode/tree/master/1943-describe-the-painting) |
 | [1945-finding-the-users-active-minutes](https://github.com/deepanshu946/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1972-rotating-the-box](https://github.com/deepanshu946/LeetCode/tree/master/1972-rotating-the-box) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -1090,6 +1091,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/deepanshu946/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1943-describe-the-painting](https://github.com/deepanshu946/LeetCode/tree/master/1943-describe-the-painting) |
 | [1945-finding-the-users-active-minutes](https://github.com/deepanshu946/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/deepanshu946/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1549,6 +1551,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1970,6 +1973,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepanshu946/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1854-maximum-population-year](https://github.com/deepanshu946/LeetCode/tree/master/1854-maximum-population-year) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/deepanshu946/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -2081,6 +2085,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
