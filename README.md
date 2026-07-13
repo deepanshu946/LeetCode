@@ -1072,6 +1072,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/deepanshu946/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshu946/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/deepanshu946/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -1175,6 +1176,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepanshu946/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1218,6 +1220,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepanshu946/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1274,6 +1277,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1312,6 +1316,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -2096,6 +2101,7 @@
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepanshu946/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0937-online-stock-span](https://github.com/deepanshu946/LeetCode/tree/master/0937-online-stock-span) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2241-design-an-atm-machine](https://github.com/deepanshu946/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Reservoir Sampling
