@@ -999,6 +999,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -1517,6 +1518,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -1568,6 +1570,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3100-water-bottles-ii](https://github.com/deepanshu946/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/deepanshu946/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3433-count-mentions-per-user](https://github.com/deepanshu946/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -2088,6 +2091,7 @@
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Probability and Statistics
