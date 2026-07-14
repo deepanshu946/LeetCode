@@ -37,7 +37,7 @@ public:
         for(int i=0 ; i<nums.size() ; i++){
             maxi = max(maxi , nums[i]);
         }
-        vector<vector<vector<long long>>> dp(maxi+1, vector<vector<long long>>(maxi+1,vector<long long>(nums.size()+1,0)));
+        vector<vector<vector<int>>> dp(maxi+1, vector<vector<int>>(maxi+1,vector<int>(nums.size()+1,0)));
         for(int gcd1=1; gcd1<=maxi ; gcd1++ ){
             for(int gcd2 = 1; gcd2<=maxi ; gcd2++){
                 if(gcd1!=0 && gcd2!=0 && gcd1==gcd2){
@@ -49,13 +49,13 @@ public:
         for(int gcd1 = 0 ; gcd1<=maxi ; gcd1++){
             for(int gcd2 = 0 ; gcd2<=maxi ; gcd2++){
                     int newgcd1=getgcd(nums[i],gcd1);
-                    long long take1 = dp[newgcd1][gcd2][i+1] % mod;
+                    int take1 = dp[newgcd1][gcd2][i+1] % mod;
                     
                     int newgcd2=getgcd(nums[i],gcd2);
-                    long long take2 = dp[gcd1][newgcd2][i+1] %mod;
+                    int take2 = dp[gcd1][newgcd2][i+1] %mod;
 
-                    long long leave = dp[gcd1][gcd2][i+1] %mod;
-                    dp[gcd1][gcd2][i] = (take1+take2+leave)%mod;
+                    int leave = dp[gcd1][gcd2][i+1] %mod;
+                    dp[gcd1][gcd2][i] = ((take1+take2)%mod+leave)%mod;
                 }
             }
         }
