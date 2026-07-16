@@ -776,6 +776,7 @@
 | [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/deepanshu946/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/deepanshu946/LeetCode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepanshu946/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1892,6 +1893,7 @@
 | [0047-permutations-ii](https://github.com/deepanshu946/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/deepanshu946/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/deepanshu946/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/deepanshu946/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/0113-path-sum-ii) |
@@ -2002,6 +2004,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deepanshu946/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0397-integer-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0397-integer-replacement) |
