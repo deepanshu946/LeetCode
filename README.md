@@ -725,6 +725,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepanshu946/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/deepanshu946/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/deepanshu946/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
@@ -1030,6 +1031,7 @@
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/deepanshu946/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
@@ -1578,6 +1580,7 @@
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshu946/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepanshu946/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -1635,6 +1638,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -1832,6 +1836,7 @@
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/deepanshu946/LeetCode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3634-find-mirror-score-of-a-string](https://github.com/deepanshu946/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2096,6 +2101,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Probability and Statistics
 |  |
 | ------- |
