@@ -1185,6 +1185,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/deepanshu946/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepanshu946/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1287,6 +1288,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/deepanshu946/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepanshu946/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1326,6 +1328,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/deepanshu946/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/deepanshu946/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/deepanshu946/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
