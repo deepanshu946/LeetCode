@@ -1230,6 +1230,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/deepanshu946/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/deepanshu946/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/deepanshu946/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -2202,6 +2203,7 @@
 |  |
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/deepanshu946/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
