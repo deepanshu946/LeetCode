@@ -1379,6 +1379,7 @@
 | [0686-repeated-string-match](https://github.com/deepanshu946/LeetCode/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/deepanshu946/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0778-reorganize-string](https://github.com/deepanshu946/LeetCode/tree/master/0778-reorganize-string) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [0858-masking-personal-information](https://github.com/deepanshu946/LeetCode/tree/master/0858-masking-personal-information) |
 | [0862-find-and-replace-in-string](https://github.com/deepanshu946/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0878-shifting-letters](https://github.com/deepanshu946/LeetCode/tree/master/0878-shifting-letters) |
@@ -1911,6 +1912,7 @@
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/deepanshu946/LeetCode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
+| [0842-split-array-into-fibonacci-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
