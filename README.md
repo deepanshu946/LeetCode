@@ -810,6 +810,7 @@
 | [0455-assign-cookies](https://github.com/deepanshu946/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepanshu946/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/deepanshu946/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/deepanshu946/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/deepanshu946/LeetCode/tree/master/0525-contiguous-array) |
@@ -1557,6 +1558,7 @@
 | [0445-add-two-numbers-ii](https://github.com/deepanshu946/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/deepanshu946/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepanshu946/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/deepanshu946/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/deepanshu946/LeetCode/tree/master/0670-maximum-swap) |
@@ -2022,6 +2024,7 @@
 | [0090-subsets-ii](https://github.com/deepanshu946/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0397-integer-replacement](https://github.com/deepanshu946/LeetCode/tree/master/0397-integer-replacement) |
+| [0477-total-hamming-distance](https://github.com/deepanshu946/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/deepanshu946/LeetCode/tree/master/0645-set-mismatch) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/deepanshu946/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
