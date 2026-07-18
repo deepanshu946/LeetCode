@@ -830,6 +830,7 @@
 | [0739-daily-temperatures](https://github.com/deepanshu946/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/deepanshu946/LeetCode/tree/master/0740-delete-and-earn) |
 | [0769-largest-plus-sign](https://github.com/deepanshu946/LeetCode/tree/master/0769-largest-plus-sign) |
+| [0789-escape-the-ghosts](https://github.com/deepanshu946/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/deepanshu946/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1559,6 +1560,7 @@
 | [0593-valid-square](https://github.com/deepanshu946/LeetCode/tree/master/0593-valid-square) |
 | [0650-2-keys-keyboard](https://github.com/deepanshu946/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/deepanshu946/LeetCode/tree/master/0670-maximum-swap) |
+| [0789-escape-the-ghosts](https://github.com/deepanshu946/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0797-rabbits-in-forest](https://github.com/deepanshu946/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/deepanshu946/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/deepanshu946/LeetCode/tree/master/0826-soup-servings) |
