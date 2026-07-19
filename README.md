@@ -959,6 +959,7 @@
 | [2381-shifting-letters-ii](https://github.com/deepanshu946/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/deepanshu946/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/deepanshu946/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -2034,6 +2035,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/deepanshu946/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/deepanshu946/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2680-maximum-or](https://github.com/deepanshu946/LeetCode/tree/master/2680-maximum-or) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
@@ -2102,6 +2104,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/deepanshu946/LeetCode/tree/master/0319-bulb-switcher) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepanshu946/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/deepanshu946/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2481-strictly-palindromic-number](https://github.com/deepanshu946/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Queue
 |  |
