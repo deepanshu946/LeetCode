@@ -606,6 +606,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/deepanshu946/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/deepanshu946/LeetCode/tree/master/0969-pancake-sorting) |
 | [1026-string-without-aaa-or-bbb](https://github.com/deepanshu946/LeetCode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshu946/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1140-distant-barcodes](https://github.com/deepanshu946/LeetCode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/deepanshu946/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
@@ -1394,6 +1395,7 @@
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshu946/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1129-longest-string-chain](https://github.com/deepanshu946/LeetCode/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepanshu946/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1791,6 +1793,7 @@
 | [1002-maximum-width-ramp](https://github.com/deepanshu946/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshu946/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/deepanshu946/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/deepanshu946/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1817,6 +1820,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/deepanshu946/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/deepanshu946/LeetCode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/deepanshu946/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshu946/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
