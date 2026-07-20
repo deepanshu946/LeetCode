@@ -876,6 +876,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1260-shift-2d-grid](https://github.com/deepanshu946/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1284-four-divisors](https://github.com/deepanshu946/LeetCode/tree/master/1284-four-divisors) |
 | [1288-remove-covered-intervals](https://github.com/deepanshu946/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/deepanshu946/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -1740,6 +1741,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1260-shift-2d-grid](https://github.com/deepanshu946/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
@@ -1838,6 +1840,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1094-car-pooling](https://github.com/deepanshu946/LeetCode/tree/master/1094-car-pooling) |
 | [1222-queens-that-can-attack-the-king](https://github.com/deepanshu946/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1260-shift-2d-grid](https://github.com/deepanshu946/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1310-watering-plants](https://github.com/deepanshu946/LeetCode/tree/master/1310-watering-plants) |
 | [1449-print-words-vertically](https://github.com/deepanshu946/LeetCode/tree/master/1449-print-words-vertically) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepanshu946/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
