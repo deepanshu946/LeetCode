@@ -1181,6 +1181,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/deepanshu946/LeetCode/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/deepanshu946/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
@@ -1293,6 +1294,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/deepanshu946/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/deepanshu946/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
@@ -1334,6 +1336,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/deepanshu946/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/deepanshu946/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/deepanshu946/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/deepanshu946/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
