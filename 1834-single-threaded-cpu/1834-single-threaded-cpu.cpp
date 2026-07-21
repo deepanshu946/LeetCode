@@ -12,26 +12,20 @@ public:
         long long curr = temp[0][0];
         int i = 1;
         pq.push({temp[0][1],temp[0][2]});
-        // while(i<temp.size() && temp[i][0]<=curr){
-        //     pq.push({temp[i][1],temp[i][2]});
-        //     i++;
-        // }
         while(ans.size()<tasks.size()){
+            
+            while(i<temp.size() && temp[i][0]<=curr){
+                pq.push({temp[i][1],temp[i][2]});
+                i++;
+            }
             if(pq.empty()){
                 curr = temp[i][0];
             }
-            while(i<temp.size() && temp[i][0]<=curr){
-                pq.push({temp[i][1],temp[i][2]});
-                i++;
+            else{
+                curr = curr + pq.top().first;
+                ans.push_back(pq.top().second);
+                pq.pop();
             }
-            curr = curr + pq.top().first;
-            ans.push_back(pq.top().second);
-            pq.pop();
-            while(i<temp.size() && temp[i][0]<=curr){
-                pq.push({temp[i][1],temp[i][2]});
-                i++;
-            }
-            
             
         }
         return ans;
