@@ -1211,6 +1211,7 @@
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/deepanshu946/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/deepanshu946/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -1257,6 +1258,7 @@
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/deepanshu946/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/deepanshu946/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/deepanshu946/LeetCode/tree/master/3561-remove-methods-from-project) |
@@ -2216,6 +2218,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2233,6 +2236,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepanshu946/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
 |  |
