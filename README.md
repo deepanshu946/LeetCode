@@ -1259,6 +1259,7 @@
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/deepanshu946/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepanshu946/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/deepanshu946/LeetCode/tree/master/3561-remove-methods-from-project) |
@@ -1543,6 +1544,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/deepanshu946/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepanshu946/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -1719,6 +1721,7 @@
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/deepanshu946/LeetCode/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/deepanshu946/LeetCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Matrix
 |  |
