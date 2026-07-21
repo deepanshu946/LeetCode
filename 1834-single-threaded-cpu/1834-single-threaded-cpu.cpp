@@ -12,10 +12,10 @@ public:
         long long curr = temp[0][0];
         int i = 1;
         pq.push({temp[0][1],temp[0][2]});
-        while(i<temp.size() && temp[i][0]<=curr){
-            pq.push({temp[i][1],temp[i][2]});
-            i++;
-        }
+        // while(i<temp.size() && temp[i][0]<=curr){
+        //     pq.push({temp[i][1],temp[i][2]});
+        //     i++;
+        // }
         while(ans.size()<tasks.size()){
             if(pq.empty()){
                 curr = temp[i][0];
