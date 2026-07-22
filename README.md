@@ -909,6 +909,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/deepanshu946/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/deepanshu946/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/deepanshu946/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -1592,6 +1593,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/deepanshu946/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -2090,6 +2092,7 @@
 | [1094-car-pooling](https://github.com/deepanshu946/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/deepanshu946/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepanshu946/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/deepanshu946/LeetCode/tree/master/1833-find-the-highest-altitude) |
