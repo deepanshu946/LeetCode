@@ -1464,6 +1464,7 @@
 | [3451-string-compression-iii](https://github.com/deepanshu946/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepanshu946/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/deepanshu946/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/deepanshu946/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/deepanshu946/LeetCode/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -2195,6 +2196,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/deepanshu946/LeetCode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/deepanshu946/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Quickselect
 |  |
 | ------- |
