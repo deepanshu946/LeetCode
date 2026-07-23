@@ -1,57 +1,31 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        
-        set<vector<int>> s;
-        vector<vector<int>> ans;
         sort(nums.begin(),nums.end());
-        if(nums[0]== 0 && nums[nums.size()-1]==0){
-            ans.push_back({0,0,0});
-            return ans;
-        }
-        for(int k=1 ; k<nums.size()-1 ; k++){
-            int i=0;
-            int j=nums.size()-1;
-            while(i<j){
-                int sum = nums[i]+nums[j]+nums[k];
-                if(sum == 0){
-                    vector<int> temp = {nums[i],nums[j],nums[k]};
-                    sort(temp.begin() , temp.end());
-                    if(s.count(temp) ==0){
-                        s.insert(temp);
-                        ans.push_back(temp);
-                    }
-                    if(i+1 == k){
-                        i=i+2;
-                    }
-                    else{
-                        i++;
-                    }
-                    if(j-1 == k){
-                        j=j-2;
-                    }
-                    else{
-                        j--;
-                    }
+        vector<vector<int>> ans;
+        for(int i=0 ; i<nums.size()-2 ; i++){
+            int start = i+1;
+            int end = nums.size()-1;
+            int val = -nums[i];
+            if(i>0 && nums[i]==nums[i-1])continue;
+            while(start<end){
+                if(nums[start]+nums[end]==val){
+                    while(start < end && nums[start] == nums[start+1])
+                        start++;
+                    while(start < end && nums[end] == nums[end-1])
+                        end--;
+                        
+                    ans.push_back({nums[i],nums[start],nums[end]});
+                    start++;
+                    end--;
                 }
-                else if(sum<0){
-                    if(i+1 == k){
-                        i=i+2;
-                    }
-                    else{
-                        i++;
-                    }
+                else if(nums[start]+nums[end] < val){
+                    start++;
                 }
                 else{
-                    if(j-1 == k){
-                        j=j-2;
-                    }
-                    else{
-                        j--;
-                    }
+                    end--;
                 }
             }
-
         }
         return ans;
     }
