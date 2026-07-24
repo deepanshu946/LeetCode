@@ -714,6 +714,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/deepanshu946/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepanshu946/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/deepanshu946/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/deepanshu946/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -982,6 +983,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/deepanshu946/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepanshu946/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-minimum-time-to-repair-cars](https://github.com/deepanshu946/LeetCode/tree/master/2594-minimum-time-to-repair-cars) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/deepanshu946/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshu946/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/deepanshu946/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1133,6 +1135,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepanshu946/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/deepanshu946/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/deepanshu946/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/deepanshu946/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/deepanshu946/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/deepanshu946/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1555,6 +1558,7 @@
 | [2504-find-all-good-indices](https://github.com/deepanshu946/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/deepanshu946/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2569-number-of-beautiful-partitions](https://github.com/deepanshu946/LeetCode/tree/master/2569-number-of-beautiful-partitions) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/deepanshu946/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2648-number-of-ways-to-earn-points](https://github.com/deepanshu946/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -1615,6 +1619,7 @@
 | [2481-strictly-palindromic-number](https://github.com/deepanshu946/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepanshu946/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/deepanshu946/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/deepanshu946/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2645-pass-the-pillow](https://github.com/deepanshu946/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1966,6 +1971,7 @@
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/deepanshu946/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/deepanshu946/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -2086,6 +2092,7 @@
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/deepanshu946/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Prefix Sum
 |  |
