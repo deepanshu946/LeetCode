@@ -940,6 +940,7 @@
 | [1972-rotating-the-box](https://github.com/deepanshu946/LeetCode/tree/master/1972-rotating-the-box) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/deepanshu946/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
@@ -1123,6 +1124,7 @@
 | [1943-describe-the-painting](https://github.com/deepanshu946/LeetCode/tree/master/1943-describe-the-painting) |
 | [1945-finding-the-users-active-minutes](https://github.com/deepanshu946/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/deepanshu946/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/deepanshu946/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -2060,6 +2062,7 @@
 | [1854-maximum-population-year](https://github.com/deepanshu946/LeetCode/tree/master/1854-maximum-population-year) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/deepanshu946/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/deepanshu946/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/deepanshu946/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
