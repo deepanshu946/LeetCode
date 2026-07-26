@@ -31,9 +31,9 @@ public:
         int ans = 0;
         long long maxi = 0;
         // return 0;
-        long long temp=1;
-        unordered_map<long long,int> count;
+        // unordered_map<long long,int> count;
         for(int i=0 ; i<sizes.size() ; i++){
+            long long temp=1;
             if(parents[i] != -1){
                 temp = temp* (sizes[0]-sizes[i]);
             }
@@ -41,12 +41,15 @@ public:
                 temp = temp * sizes[m[i][j]];
             }
             // cout<<temp<<endl;
-            maxi = max(maxi,temp);
-            count[temp]++;
-            temp=1;
+            if (temp > maxi) {
+                maxi = temp;
+                ans = 1;
+            } else if (temp == maxi) {
+                ans++;
+            }
         }
         
-        return count[maxi];
+        return ans;
 
 
 
