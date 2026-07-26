@@ -25,9 +25,9 @@ public:
         vector<int> sizes(parents.size(),0);
 
         solve(0,m,sizes,parents.size());
-        for(int i=0 ; i<sizes.size() ; i++){
-            cout<<sizes[i]<<" ";
-        }
+        // for(int i=0 ; i<sizes.size() ; i++){
+        //     cout<<sizes[i]<<" ";
+        // }
         int ans = 0;
         long long maxi = 0;
         // return 0;
