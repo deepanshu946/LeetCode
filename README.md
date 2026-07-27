@@ -707,6 +707,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/deepanshu946/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1943-describe-the-painting](https://github.com/deepanshu946/LeetCode/tree/master/1943-describe-the-painting) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/deepanshu946/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2245-destroying-asteroids](https://github.com/deepanshu946/LeetCode/tree/master/2245-destroying-asteroids) |
@@ -948,6 +949,7 @@
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/deepanshu946/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/deepanshu946/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepanshu946/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -1566,6 +1568,7 @@
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/deepanshu946/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/deepanshu946/LeetCode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/deepanshu946/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/deepanshu946/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -1700,6 +1703,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/deepanshu946/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/deepanshu946/LeetCode/tree/master/1972-rotating-the-box) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2228-watering-plants-ii](https://github.com/deepanshu946/LeetCode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/deepanshu946/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/deepanshu946/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -1745,6 +1749,7 @@
 | [1753-path-with-minimum-effort](https://github.com/deepanshu946/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepanshu946/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/deepanshu946/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2164-two-best-non-overlapping-events](https://github.com/deepanshu946/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -2103,6 +2108,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepanshu946/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/deepanshu946/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -2162,6 +2168,7 @@
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/deepanshu946/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-maximum-compatibility-score-sum](https://github.com/deepanshu946/LeetCode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Rolling Hash
 |  |
@@ -2291,6 +2298,7 @@
 | [0729-my-calendar-i](https://github.com/deepanshu946/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepanshu946/LeetCode/tree/master/0732-my-calendar-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/deepanshu946/LeetCode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Graph Theory
 |  |
 | ------- |
