@@ -19,7 +19,7 @@ public:
             int count = 0;
             while(!pq.empty() && count < k){
                 pair<int,int> top = pq.top();
-                cout<<top.first<<" "<<top.second<<endl;
+                // cout<<top.first<<" "<<top.second<<endl;
                 pq.pop();
                 if(s.find(top.second) == s.end()){
                     s.insert(top.second);
