@@ -894,6 +894,7 @@
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1260-shift-2d-grid](https://github.com/deepanshu946/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1284-four-divisors](https://github.com/deepanshu946/LeetCode/tree/master/1284-four-divisors) |
 | [1288-remove-covered-intervals](https://github.com/deepanshu946/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/deepanshu946/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -1558,6 +1559,7 @@
 | [1224-minimum-falling-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1236-n-th-tribonacci-number](https://github.com/deepanshu946/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1332-count-vowels-permutation](https://github.com/deepanshu946/LeetCode/tree/master/1332-count-vowels-permutation) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
@@ -1807,6 +1809,7 @@
 | [1234-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
 | [1242-matrix-block-sum](https://github.com/deepanshu946/LeetCode/tree/master/1242-matrix-block-sum) |
 | [1260-shift-2d-grid](https://github.com/deepanshu946/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepanshu946/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-path-with-maximum-gold](https://github.com/deepanshu946/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
