@@ -1055,6 +1055,7 @@
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -1662,6 +1663,7 @@
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3433-count-mentions-per-user](https://github.com/deepanshu946/LeetCode/tree/master/3433-count-mentions-per-user) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/deepanshu946/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshu946/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -2132,6 +2134,7 @@
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -2266,6 +2269,7 @@
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/deepanshu946/LeetCode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshu946/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Quickselect
 |  |
 | ------- |
