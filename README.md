@@ -1026,6 +1026,7 @@
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/deepanshu946/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/deepanshu946/LeetCode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
@@ -2174,6 +2175,7 @@
 | [2680-maximum-or](https://github.com/deepanshu946/LeetCode/tree/master/2680-maximum-or) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2721-sum-of-distances](https://github.com/deepanshu946/LeetCode/tree/master/2721-sum-of-distances) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/deepanshu946/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
