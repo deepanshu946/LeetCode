@@ -644,6 +644,7 @@
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/deepanshu946/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3724-minimum-operations-to-transform-array](https://github.com/deepanshu946/LeetCode/tree/master/3724-minimum-operations-to-transform-array) |
 ## Graph
 |  |
 | ------- |
@@ -1067,6 +1068,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/deepanshu946/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/deepanshu946/LeetCode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3724-minimum-operations-to-transform-array](https://github.com/deepanshu946/LeetCode/tree/master/3724-minimum-operations-to-transform-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
