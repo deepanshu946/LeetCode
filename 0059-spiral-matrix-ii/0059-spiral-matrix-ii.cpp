@@ -13,26 +13,26 @@ public:
                 var++;
             }
             rowstart++;
-            if(rowstart>rowend && colstart>colend)break;
+            // if(rowstart>rowend && colstart>colend)break;
             for(int i=rowstart ; i<=rowend ; i++){
                 ans[i][colend]=var;
                 var++;
             }
             colend--;
-            if(rowstart>rowend && colstart>colend)break;
+            // if(rowstart>rowend && colstart>colend)break;
             for(int j=colend ; j>=colstart ; j--){
                 ans[rowend][j]=var;
                 var++;
             }
             rowend--;
-            if(rowstart>rowend && colstart>colend)break;
+            // if(rowstart>rowend && colstart>colend)break;
 
             for(int i=rowend ; i>=rowstart ; i--){
                 ans[i][colstart]=var;
                 var++;
             }
             colstart++;
-            if(rowstart>rowend && colstart>colend)break;
+            // if(rowstart>rowend && colstart>colend)break;
         }
         return ans;
     }
