@@ -794,6 +794,7 @@
 | [0053-maximum-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deepanshu946/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/deepanshu946/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/deepanshu946/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
@@ -1801,6 +1802,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/deepanshu946/LeetCode/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/deepanshu946/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/deepanshu946/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/deepanshu946/LeetCode/tree/master/0130-surrounded-regions) |
@@ -1916,6 +1918,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/deepanshu946/LeetCode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/deepanshu946/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/deepanshu946/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
