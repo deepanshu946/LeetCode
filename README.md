@@ -640,6 +640,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/deepanshu946/LeetCode/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/deepanshu946/LeetCode/tree/master/3230-remove-adjacent-almost-equal-characters) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepanshu946/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/deepanshu946/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/deepanshu946/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -1056,6 +1057,7 @@
 | [3430-count-days-without-meetings](https://github.com/deepanshu946/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/deepanshu946/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepanshu946/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepanshu946/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/deepanshu946/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -2287,6 +2289,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/deepanshu946/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/deepanshu946/LeetCode/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/deepanshu946/LeetCode/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deepanshu946/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Quickselect
