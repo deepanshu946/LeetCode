@@ -1054,6 +1054,7 @@
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/deepanshu946/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/deepanshu946/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/deepanshu946/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -1193,6 +1194,7 @@
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/deepanshu946/LeetCode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/deepanshu946/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/deepanshu946/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -2202,6 +2204,7 @@
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/deepanshu946/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/deepanshu946/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/deepanshu946/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
