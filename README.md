@@ -1038,6 +1038,7 @@
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/deepanshu946/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/deepanshu946/LeetCode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3114-beautiful-towers-i](https://github.com/deepanshu946/LeetCode/tree/master/3114-beautiful-towers-i) |
@@ -2156,6 +2157,7 @@
 | [2425-bitwise-xor-of-all-pairings](https://github.com/deepanshu946/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2680-maximum-or](https://github.com/deepanshu946/LeetCode/tree/master/2680-maximum-or) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/deepanshu946/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/deepanshu946/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/deepanshu946/LeetCode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
