@@ -751,6 +751,7 @@
 | [0239-sliding-window-maximum](https://github.com/deepanshu946/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/deepanshu946/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/deepanshu946/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-reorganize-string](https://github.com/deepanshu946/LeetCode/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/deepanshu946/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -1237,6 +1238,7 @@
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepanshu946/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -1290,6 +1292,7 @@
 | [0690-employee-importance](https://github.com/deepanshu946/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepanshu946/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -2270,6 +2273,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/deepanshu946/LeetCode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Design
@@ -2361,6 +2365,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/deepanshu946/LeetCode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/deepanshu946/LeetCode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepanshu946/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepanshu946/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -2386,4 +2391,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/deepanshu946/LeetCode/tree/master/0399-evaluate-division) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
