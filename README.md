@@ -942,6 +942,7 @@
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/deepanshu946/LeetCode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1720-crawler-log-folder](https://github.com/deepanshu946/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/deepanshu946/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepanshu946/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepanshu946/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1151,6 +1152,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/deepanshu946/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/deepanshu946/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/deepanshu946/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/deepanshu946/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/deepanshu946/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -1268,6 +1270,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/deepanshu946/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/deepanshu946/LeetCode/tree/master/2035-count-sub-islands) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/deepanshu946/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
