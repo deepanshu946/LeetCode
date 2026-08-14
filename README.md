@@ -916,6 +916,7 @@
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/deepanshu946/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/deepanshu946/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/deepanshu946/LeetCode/tree/master/1375-number-of-times-binary-string-is-prefix-aligned) |
 | [1376-selling-pieces-of-wood](https://github.com/deepanshu946/LeetCode/tree/master/1376-selling-pieces-of-wood) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
