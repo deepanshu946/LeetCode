@@ -978,6 +978,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2107-find-unique-binary-string](https://github.com/deepanshu946/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepanshu946/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2145-count-the-hidden-sequences](https://github.com/deepanshu946/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2155-find-missing-observations](https://github.com/deepanshu946/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/deepanshu946/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -2208,6 +2209,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/deepanshu946/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/deepanshu946/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/deepanshu946/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2145-count-the-hidden-sequences](https://github.com/deepanshu946/LeetCode/tree/master/2145-count-the-hidden-sequences) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2358-number-of-ways-to-split-array](https://github.com/deepanshu946/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2381-shifting-letters-ii](https://github.com/deepanshu946/LeetCode/tree/master/2381-shifting-letters-ii) |
