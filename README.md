@@ -1199,6 +1199,7 @@
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/deepanshu946/LeetCode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/deepanshu946/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/deepanshu946/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -1526,6 +1527,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/deepanshu946/LeetCode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/deepanshu946/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -2019,6 +2021,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/deepanshu946/LeetCode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/deepanshu946/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
