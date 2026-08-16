@@ -1009,6 +1009,7 @@
 | [2425-bitwise-xor-of-all-pairings](https://github.com/deepanshu946/LeetCode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2428-equal-row-and-column-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/deepanshu946/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/deepanshu946/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/deepanshu946/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/deepanshu946/LeetCode/tree/master/2502-sort-the-people) |
@@ -1692,6 +1693,7 @@
 | [2348-count-number-of-texts](https://github.com/deepanshu946/LeetCode/tree/master/2348-count-number-of-texts) |
 | [2383-add-two-integers](https://github.com/deepanshu946/LeetCode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/deepanshu946/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-strictly-palindromic-number](https://github.com/deepanshu946/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/deepanshu946/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/deepanshu946/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
@@ -2284,6 +2286,7 @@
 | [0258-add-digits](https://github.com/deepanshu946/LeetCode/tree/master/0258-add-digits) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/deepanshu946/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/deepanshu946/LeetCode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/deepanshu946/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3373-maximum-prime-difference](https://github.com/deepanshu946/LeetCode/tree/master/3373-maximum-prime-difference) |
