@@ -883,6 +883,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1002-maximum-width-ramp](https://github.com/deepanshu946/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/deepanshu946/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/deepanshu946/LeetCode/tree/master/1028-interval-list-intersections) |
@@ -1791,6 +1792,7 @@
 | [0853-most-profit-assigning-work](https://github.com/deepanshu946/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/deepanshu946/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/deepanshu946/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepanshu946/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -1997,6 +1999,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/deepanshu946/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deepanshu946/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/deepanshu946/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshu946/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -2194,6 +2197,7 @@
 | [0731-my-calendar-ii](https://github.com/deepanshu946/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/deepanshu946/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0878-shifting-letters](https://github.com/deepanshu946/LeetCode/tree/master/0878-shifting-letters) |
+| [1004-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/deepanshu946/LeetCode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/deepanshu946/LeetCode/tree/master/1109-corporate-flight-bookings) |
