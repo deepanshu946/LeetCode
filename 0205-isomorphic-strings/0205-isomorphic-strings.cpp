@@ -1,22 +1,22 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char, char> m;
-        unordered_set<char> set;
-        for (int i = 0; i < s.length(); i++) {
-            char c1 = s[i];
-            char c2 = t[i];
-            if (m.find(c1) != m.end()) {
-                char mapping = m[c1];
-                if (mapping != c2 ) {
+        unordered_map<char,char> m;
+        unordered_set<char> st;
+        for(int i=0 ; i<s.length() ; i++){
+            if(m.find(s[i])==m.end()){
+                if(st.find(t[i]) != st.end()){
                     return false;
                 }
-            } else {
-                if(set.find(c2) != set.end()){
+                m[s[i]]=t[i];
+                st.insert(t[i]);
+
+
+            }
+            else{
+                if(m[s[i]] != t[i]){
                     return false;
                 }
-                m[c1] = c2;
-                set.insert(c2);
             }
         }
         return true;
