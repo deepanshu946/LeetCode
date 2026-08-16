@@ -636,6 +636,7 @@
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2680-maximum-or](https://github.com/deepanshu946/LeetCode/tree/master/2680-maximum-or) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/deepanshu946/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshu946/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/deepanshu946/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3195-separate-black-and-white-balls](https://github.com/deepanshu946/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/deepanshu946/LeetCode/tree/master/3207-maximum-points-after-enemy-battles) |
@@ -730,6 +731,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshu946/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/deepanshu946/LeetCode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1198,6 +1200,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshu946/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/deepanshu946/LeetCode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/deepanshu946/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -1527,6 +1530,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/deepanshu946/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/deepanshu946/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/deepanshu946/LeetCode/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshu946/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepanshu946/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/deepanshu946/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3194-find-words-containing-character](https://github.com/deepanshu946/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -2152,6 +2156,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/deepanshu946/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/deepanshu946/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshu946/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/deepanshu946/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
