@@ -1,22 +1,25 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        stack<int> s;
-        for(int i = nums.size()-2 ; i>=0 ; i--){
-            s.push(nums[i]);
+        stack<pair<int,int>> st;
+        for(int i=nums.size()-1 ; i>=0 ; i--){
+            while(!st.empty() && st.top().first <= nums[i]){
+                st.pop();
+            }
+            st.push({nums[i],i});
         }
         vector<int> ans(nums.size(),0);
         for(int i=nums.size()-1 ; i>=0 ; i--){
-            while( !s.empty() && s.top() <= nums[i]){
-                s.pop();
+            while(!st.empty() && st.top().first <= nums[i]){
+                st.pop();
             }
-            if(s.empty()){
+            if(st.empty()){
                 ans[i]=-1;
             }
             else{
-                ans[i]=s.top();
+                ans[i]=st.top().first;
             }
-            s.push(nums[i]);
+            st.push({nums[i],i});
         }
         return ans;
     }
