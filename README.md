@@ -1118,6 +1118,7 @@
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/deepanshu946/LeetCode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/deepanshu946/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deepanshu946/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/deepanshu946/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/deepanshu946/LeetCode/tree/master/0398-random-pick-index) |
@@ -1457,6 +1458,7 @@
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/deepanshu946/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/deepanshu946/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0306-additive-number](https://github.com/deepanshu946/LeetCode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/deepanshu946/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
