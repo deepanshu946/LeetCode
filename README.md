@@ -1282,6 +1282,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1332,6 +1333,7 @@
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/deepanshu946/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/deepanshu946/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/deepanshu946/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -1395,6 +1397,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/deepanshu946/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1484-linked-list-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/deepanshu946/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -1624,6 +1627,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/deepanshu946/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1517-restore-the-array](https://github.com/deepanshu946/LeetCode/tree/master/1517-restore-the-array) |
 | [1583-paint-house-iii](https://github.com/deepanshu946/LeetCode/tree/master/1583-paint-house-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deepanshu946/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1817,6 +1821,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/deepanshu946/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/deepanshu946/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/deepanshu946/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/deepanshu946/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/deepanshu946/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -2191,6 +2196,7 @@
 | [0645-set-mismatch](https://github.com/deepanshu946/LeetCode/tree/master/0645-set-mismatch) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/deepanshu946/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/deepanshu946/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/deepanshu946/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -2332,6 +2338,7 @@
 | [0732-my-calendar-iii](https://github.com/deepanshu946/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0937-online-stock-span](https://github.com/deepanshu946/LeetCode/tree/master/0937-online-stock-span) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2241-design-an-atm-machine](https://github.com/deepanshu946/LeetCode/tree/master/2241-design-an-atm-machine) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Reservoir Sampling
@@ -2448,4 +2455,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deepanshu946/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
