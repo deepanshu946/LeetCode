@@ -2436,4 +2436,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/deepanshu946/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/deepanshu946/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
