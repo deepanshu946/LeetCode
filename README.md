@@ -693,6 +693,7 @@
 | [0948-bag-of-tokens](https://github.com/deepanshu946/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/deepanshu946/LeetCode/tree/master/0969-pancake-sorting) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/deepanshu946/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/deepanshu946/LeetCode/tree/master/1094-car-pooling) |
 | [1129-longest-string-chain](https://github.com/deepanshu946/LeetCode/tree/master/1129-longest-string-chain) |
@@ -1144,6 +1145,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/deepanshu946/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/deepanshu946/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/deepanshu946/LeetCode/tree/master/0952-word-subsets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/deepanshu946/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1129-longest-string-chain](https://github.com/deepanshu946/LeetCode/tree/master/1129-longest-string-chain) |
@@ -1263,6 +1265,7 @@
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -1317,6 +1320,7 @@
 | [0820-find-eventual-safe-states](https://github.com/deepanshu946/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/deepanshu946/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepanshu946/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -1379,6 +1383,7 @@
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -1421,6 +1426,7 @@
 | [0832-binary-tree-pruning](https://github.com/deepanshu946/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/deepanshu946/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/deepanshu946/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/deepanshu946/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
