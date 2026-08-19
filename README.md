@@ -613,6 +613,7 @@
 | [1304-longest-happy-string](https://github.com/deepanshu946/LeetCode/tree/master/1304-longest-happy-string) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/deepanshu946/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/deepanshu946/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/deepanshu946/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/deepanshu946/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -928,6 +929,7 @@
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/deepanshu946/LeetCode/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/deepanshu946/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/deepanshu946/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1386-cinema-seat-allocation](https://github.com/deepanshu946/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1396-count-servers-that-communicate](https://github.com/deepanshu946/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/deepanshu946/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepanshu946/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -1157,6 +1159,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/deepanshu946/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepanshu946/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/deepanshu946/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/deepanshu946/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/deepanshu946/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/deepanshu946/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/deepanshu946/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -2196,6 +2199,7 @@
 | [0645-set-mismatch](https://github.com/deepanshu946/LeetCode/tree/master/0645-set-mismatch) |
 | [1022-unique-paths-iii](https://github.com/deepanshu946/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/deepanshu946/LeetCode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1386-cinema-seat-allocation](https://github.com/deepanshu946/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/deepanshu946/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepanshu946/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
