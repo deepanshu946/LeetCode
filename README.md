@@ -1104,6 +1104,7 @@
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/deepanshu946/LeetCode/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
+| [3840-house-robber-v](https://github.com/deepanshu946/LeetCode/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
@@ -1666,6 +1667,7 @@
 | [3442-maximum-total-reward-using-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/deepanshu946/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepanshu946/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3840-house-robber-v](https://github.com/deepanshu946/LeetCode/tree/master/3840-house-robber-v) |
 ## Math
 |  |
 | ------- |
