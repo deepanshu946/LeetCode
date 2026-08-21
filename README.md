@@ -782,6 +782,7 @@
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/deepanshu946/LeetCode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/deepanshu946/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |
@@ -1068,6 +1069,7 @@
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
 | [3324-split-the-array](https://github.com/deepanshu946/LeetCode/tree/master/3324-split-the-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deepanshu946/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/deepanshu946/LeetCode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/deepanshu946/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3356-zero-array-transformation-ii](https://github.com/deepanshu946/LeetCode/tree/master/3356-zero-array-transformation-ii) |
@@ -1912,6 +1914,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -2333,6 +2336,7 @@
 | [0399-evaluate-division](https://github.com/deepanshu946/LeetCode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
@@ -2435,6 +2439,7 @@
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/deepanshu946/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/deepanshu946/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Database
 |  |
 | ------- |
