@@ -785,6 +785,7 @@
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/deepanshu946/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepanshu946/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Array
 |  |
 | ------- |
@@ -2342,6 +2343,7 @@
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/deepanshu946/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepanshu946/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Design
 |  |
 | ------- |
@@ -2445,6 +2447,7 @@
 | [3310-remove-methods-from-project](https://github.com/deepanshu946/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/deepanshu946/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepanshu946/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
 | ------- |
