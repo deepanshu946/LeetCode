@@ -1,64 +1,63 @@
 class Solution {
-private:
-bool solve(int i , int j ,vector<vector<int>>& grid, int n , int m , int health,vector<vector<bool>> &vis ,vector<vector<vector<int>>>& dp){
-
-    if(health<=0){
-        return false;
-    }
-    if(i==n-1 && j==m-1){
-        return true;
-    }
-    if(dp[health][i][j] != -1){
-        return dp[health][i][j];
-    }
-    vis[i][j]=1;
-    bool ans = 0;
-    if(i+1<n && !vis[i+1][j]){
-        if(grid[i+1][j]==1){
-            ans = ans | solve(i+1,j,grid,n,m,health-1,vis,dp);
-        }
-        else{
-            ans = ans | solve(i+1,j,grid,n,m,health,vis,dp);
-        }
-    }
-    if(j+1<m && !vis[i][j+1]){
-        if(grid[i][j+1]==1){
-            ans = ans | solve(i,j+1,grid,n,m,health-1,vis,dp);
-        }
-        else{
-            ans = ans | solve(i,j+1,grid,n,m,health,vis,dp);
-        }
-    }
-    if(i-1>=0 && !vis[i-1][j]){
-        if(grid[i-1][j]==1){
-            ans = ans | solve(i-1,j,grid,n,m,health-1,vis,dp);
-        }
-        else{
-            ans = ans | solve(i-1,j,grid,n,m,health,vis,dp);
-        }
-    }
-    if(j-1>=0 && !vis[i][j-1]){
-        if(grid[i][j-1]==1){
-            ans = ans | solve(i,j-1,grid,n,m,health-1,vis,dp);
-        }
-        else{
-            ans = ans | solve(i,j-1,grid,n,m,health,vis,dp);
-        }
-    }
-    vis[i][j]=0;
-    return dp[health][i][j]= ans;
-
-
-
-}
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        if(grid[0][0]==1){
-            health=health-1;
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<int>> res(m,vector<int>(n,INT_MAX));
+        res[0][0]=grid[0][0];
+        deque<pair<int,int>> pq;
+        pq.push_front({0,0});
+        while(!pq.empty()){
+            pair<int,int> top = pq.front();
+            pq.pop_front();
+            int i=top.first;
+            int j = top.second;
+            if(i+1 < m){
+                if(res[i][j] + grid[i+1][j] < res[i+1][j]){
+                    res[i+1][j] = res[i][j] + grid[i+1][j];
+                    if(grid[i+1][j]){
+                        pq.push_back({i+1,j});
+                    }
+                    else{
+                        pq.push_front({i+1,j});
+                    }
+                }
+            }
+            if(j+1 < n){
+                if(res[i][j] + grid[i][j+1] < res[i][j+1]){
+                    res[i][j+1] = res[i][j] + grid[i][j+1];
+                    if(grid[i][j+1]){
+                        pq.push_back({i,j+1});
+                    }
+                    else{
+                        pq.push_front({i,j+1});
+                    }
+                }
+            }
+            if(i-1 >=0){
+                if(res[i][j] + grid[i-1][j] < res[i-1][j]){
+                    res[i-1][j] = res[i][j] + grid[i-1][j];
+                    if(grid[i-1][j]){
+                        pq.push_back({i-1,j});
+                    }
+                    else{
+                        pq.push_front({i-1,j});
+                    }
+                }
+            }
+            if(j-1 >=0){
+                if(res[i][j] + grid[i][j-1] < res[i][j-1]){
+                    res[i][j-1] = res[i][j] + grid[i][j-1];
+                    if(grid[i][j-1]){
+                        pq.push_back({i,j-1});
+                    }
+                    else{
+                        pq.push_front({i,j-1});
+                    }
+                }
+            }
         }
-        vector<vector<bool>> vis(grid.size()+1,vector<bool>(grid[0].size()+1,0));
-        vector<vector<vector<int>>> dp(health+1,vector<vector<int>>(grid.size()+1,vector<int>(grid[0].size()+1,-1)));
-
-        return solve(0,0,grid,grid.size(),grid[0].size(),health,vis,dp);
+        return health - res[m-1][n-1] >=1;
+    
     }
 };
