@@ -827,6 +827,7 @@
 | [0189-rotate-array](https://github.com/deepanshu946/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/deepanshu946/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu946/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/deepanshu946/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/deepanshu946/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepanshu946/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -1491,6 +1492,7 @@
 | [0187-repeated-dna-sequences](https://github.com/deepanshu946/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/deepanshu946/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepanshu946/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/deepanshu946/LeetCode/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/deepanshu946/LeetCode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/deepanshu946/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/deepanshu946/LeetCode/tree/master/0394-decode-string) |
@@ -1886,6 +1888,7 @@
 | [0079-word-search](https://github.com/deepanshu946/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/deepanshu946/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepanshu946/LeetCode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/deepanshu946/LeetCode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/deepanshu946/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/deepanshu946/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/deepanshu946/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -2099,6 +2102,7 @@
 | [0113-path-sum-ii](https://github.com/deepanshu946/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/deepanshu946/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/deepanshu946/LeetCode/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/deepanshu946/LeetCode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/deepanshu946/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepanshu946/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -2138,6 +2142,7 @@
 | [0139-word-break](https://github.com/deepanshu946/LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deepanshu946/LeetCode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/deepanshu946/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/deepanshu946/LeetCode/tree/master/0212-word-search-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
