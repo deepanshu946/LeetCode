@@ -1268,6 +1268,7 @@
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepanshu946/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepanshu946/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1327,6 +1328,7 @@
 | [0695-max-area-of-island](https://github.com/deepanshu946/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/deepanshu946/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepanshu946/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0794-swim-in-rising-water](https://github.com/deepanshu946/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepanshu946/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -2419,6 +2421,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepanshu946/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/deepanshu946/LeetCode/tree/master/0399-evaluate-division) |
+| [0785-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2441,6 +2444,7 @@
 | [0207-course-schedule](https://github.com/deepanshu946/LeetCode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/deepanshu946/LeetCode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/deepanshu946/LeetCode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepanshu946/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/deepanshu946/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -2488,4 +2492,12 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/deepanshu946/LeetCode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
