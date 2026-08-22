@@ -6,25 +6,25 @@ void bfs(int i , vector<int> &vis , vector<int> &color , vector<vector<int>> &gr
     color[i]=1;
     queue<int> pq;
     pq.push(i);
-    int curr = 1;
+    // int curr = 1;
     while(!pq.empty()){
         int size = pq.size();
         for(int j=0 ; j<size ; j++){
             int t = pq.front();
             pq.pop();
             for(auto neigh : graph[t]){
-                if(vis[neigh] && color[neigh]==curr){
+                if(vis[neigh] && color[neigh]==color[t]){
                     ans=0;
                     // break;
                 }
                 else if(!vis[neigh]){
                     vis[neigh]=1;
-                    color[neigh]=!curr;
+                    color[neigh]=!color[t];
                     pq.push(neigh);
                 }
             }
         }
-        curr = !curr;
+        // curr = !curr;
        
         
     }
