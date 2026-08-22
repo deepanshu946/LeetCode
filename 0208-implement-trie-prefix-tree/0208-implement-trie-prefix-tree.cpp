@@ -3,10 +3,10 @@ public:
     class TrieNode{
         public:
 
-        bool isEnd;
+        bool isEnd=0;
         TrieNode* children[26];
         TrieNode(){
-            isEnd = 0;
+            // isEnd = 0;
             for(int i=0 ; i<26 ; i++){
                 children[i]=NULL;
             }
