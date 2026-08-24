@@ -17,33 +17,31 @@ public:
 */
 
 class Solution {
+private:
+void link(Node* root){
+    if(root->left==NULL){
+        // root->next = NULL;
+        return;
+    }
+    root->left->next = root->right;
+    link(root->left);
+    if(root->next == NULL){
+        root->right->next = NULL;
+    }
+    else{
+        root->right->next = root->next->left;
+    }
+    link(root->right);
+
+}
 public:
     Node* connect(Node* root) {
         if(root==NULL){
             return NULL;
         }
-        Node* prev = NULL;
-        queue<Node*> pq;
-        pq.push(root);
-        while(!pq.empty()){
-            int size = pq.size();
-            while(size--){
-                Node* top = pq.front();
-                pq.pop();
-                if(prev != NULL){
-                    prev->next = top;
-                }
-                prev = top;
-                if(top->left != NULL){
-                    pq.push(top->left);
-                }
-                if(top->right != NULL){
-                    pq.push(top->right);
-                }
-
-            }
-            prev = NULL;
-        }
+        root->next = NULL;
+        link(root);
         return root;
+
     }
 };
