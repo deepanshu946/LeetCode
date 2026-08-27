@@ -11,28 +11,33 @@
  */
 class Solution {
     int ans = 0;
-    void solve(TreeNode* root , int target , vector<int> temp){
+    unordered_map<long long , int> m;
+    void solve(TreeNode* root , int target  , long long curr ){
         if(root==NULL){
             return;
         }
-        temp.push_back(root->val);
-        solve(root->left , target , temp);
-        solve(root->right , target , temp);
-        long long curr = 0;
-        for(int i=temp.size()-1 ; i>=0 ; i--){
-            curr = curr + temp[i];
-            if(curr == target){
-                ans++;
-            }
+        // temp.push_back(root->val);
+        curr += root->val;
+        if(m.find(curr - target) != m.end()){
+            ans += m[curr-target];
         }
-        temp.pop_back();
+        m[curr]++;
+
+        solve(root->left , target ,curr);
+        solve(root->right , target ,curr);
+        
+        m[curr]--;
+        if(m[curr]==0){
+            m.erase(curr);
+        }
 
 
     }
 public:
     int pathSum(TreeNode* root, int targetSum) {
         vector<int> temp ;
-        solve(root , targetSum , temp);
+        m[0] = 1;
+        solve(root , targetSum ,0);
         return ans;
     }
 };
