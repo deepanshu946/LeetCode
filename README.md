@@ -734,6 +734,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/deepanshu946/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2834-relocate-marbles](https://github.com/deepanshu946/LeetCode/tree/master/2834-relocate-marbles) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepanshu946/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deepanshu946/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/deepanshu946/LeetCode/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/deepanshu946/LeetCode/tree/master/3308-apply-operations-to-make-string-empty) |
@@ -1059,6 +1060,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/deepanshu946/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/deepanshu946/LeetCode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepanshu946/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/deepanshu946/LeetCode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepanshu946/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/deepanshu946/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -2457,6 +2459,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/deepanshu946/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
