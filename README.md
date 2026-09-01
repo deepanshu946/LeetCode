@@ -2551,4 +2551,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/deepanshu946/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/deepanshu946/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
