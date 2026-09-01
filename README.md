@@ -1100,6 +1100,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepanshu946/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/deepanshu946/LeetCode/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/deepanshu946/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepanshu946/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1238,6 +1239,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/deepanshu946/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/deepanshu946/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3541-report-spam-message](https://github.com/deepanshu946/LeetCode/tree/master/3541-report-spam-message) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepanshu946/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/deepanshu946/LeetCode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepanshu946/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3634-find-mirror-score-of-a-string](https://github.com/deepanshu946/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
@@ -1381,6 +1383,7 @@
 | [3310-remove-methods-from-project](https://github.com/deepanshu946/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/deepanshu946/LeetCode/tree/master/3561-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepanshu946/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
 ## Topological Sort
 |  |
@@ -1952,6 +1955,7 @@
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/deepanshu946/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/deepanshu946/LeetCode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepanshu946/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/deepanshu946/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3797-design-spreadsheet](https://github.com/deepanshu946/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3822-fill-a-special-grid](https://github.com/deepanshu946/LeetCode/tree/master/3822-fill-a-special-grid) |
@@ -2270,6 +2274,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/deepanshu946/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deepanshu946/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deepanshu946/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/deepanshu946/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepanshu946/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
