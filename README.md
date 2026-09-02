@@ -1746,6 +1746,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/deepanshu946/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/deepanshu946/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1761-count-sorted-vowel-strings](https://github.com/deepanshu946/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/deepanshu946/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/deepanshu946/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/deepanshu946/LeetCode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/deepanshu946/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
