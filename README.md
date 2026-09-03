@@ -1540,6 +1540,7 @@
 | [1026-string-without-aaa-or-bbb](https://github.com/deepanshu946/LeetCode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/deepanshu946/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/deepanshu946/LeetCode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/deepanshu946/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/deepanshu946/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deepanshu946/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1129-longest-string-chain](https://github.com/deepanshu946/LeetCode/tree/master/1129-longest-string-chain) |
@@ -2469,6 +2470,7 @@
 | [0399-evaluate-division](https://github.com/deepanshu946/LeetCode/tree/master/0399-evaluate-division) |
 | [0785-is-graph-bipartite](https://github.com/deepanshu946/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/deepanshu946/LeetCode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/deepanshu946/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
