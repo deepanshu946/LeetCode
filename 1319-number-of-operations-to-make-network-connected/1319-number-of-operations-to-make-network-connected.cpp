@@ -41,6 +41,9 @@ void Union(int x , int y){
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         int ans = 0;
+        if(connections.size() < n-1){
+            return -1;
+        }
         unordered_map<int,vector<int>> m;
         for(int i=0 ; i<connections.size() ; i++){
             m[connections[i][0]].push_back(connections[i][1]);
@@ -55,7 +58,7 @@ public:
             }
         }
         // cout<<ans;
-        // return ans;
+        return ans-1;
         parent.resize(n);
         rank.assign(n,0);
         for(int i=0 ; i<n ; i++){
