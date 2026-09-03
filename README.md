@@ -2500,6 +2500,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/deepanshu946/LeetCode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/deepanshu946/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepanshu946/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/deepanshu946/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/deepanshu946/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/deepanshu946/LeetCode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2685-count-the-number-of-complete-components](https://github.com/deepanshu946/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2520,6 +2521,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepanshu946/LeetCode/tree/master/0207-course-schedule) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/deepanshu946/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
