@@ -1121,6 +1121,7 @@
 | [3840-house-robber-v](https://github.com/deepanshu946/LeetCode/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepanshu946/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
@@ -1785,6 +1786,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepanshu946/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/deepanshu946/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/deepanshu946/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Union Find
 |  |
 | ------- |
