@@ -1120,6 +1120,7 @@
 | [3837-grid-teleportation-traversal](https://github.com/deepanshu946/LeetCode/tree/master/3837-grid-teleportation-traversal) |
 | [3840-house-robber-v](https://github.com/deepanshu946/LeetCode/tree/master/3840-house-robber-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/deepanshu946/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3958-minimum-removals-to-balance-array](https://github.com/deepanshu946/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/deepanshu946/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
@@ -1783,6 +1784,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/deepanshu946/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/deepanshu946/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/deepanshu946/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/deepanshu946/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union Find
 |  |
 | ------- |
